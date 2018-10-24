@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4.1 (64-bit)
+# SW Build 2117270 on Tue Jan 30 15:32:00 MST 2018
+# 
+# Start of session at: Mon Oct 22 14:28:43 2018
+# Process ID: 14952
+# Current directory: E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/webtalk/webtalk.log
+# Journal file: E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

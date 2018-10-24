@@ -1,0 +1,6 @@
+10:12:48 **** Auto Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+
+10:12:51 Build Finished (took 3s.437ms)
+

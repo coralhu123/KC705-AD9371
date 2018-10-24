@@ -1,0 +1,778 @@
+18:32:44 INFO  : Registering command handlers for SDK TCF services
+18:32:45 INFO  : Launching XSCT server: xsct.bat -interactive E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\temp_xsdb_launch_script.tcl
+18:32:52 INFO  : XSCT server has started successfully.
+18:32:54 INFO  : Successfully done setting XSCT server connection channel  
+18:32:54 INFO  : Processing command line option -hwspec E:/ad9371_22222/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/system_top.hdf.
+18:32:54 INFO  : Successfully done setting SDK workspace  
+18:43:15 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:44:22 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:45:06 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:45:06 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+18:45:14 INFO  : FPGA configured successfully with bitstream "E:/ad9371_22222/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/system_top_hw_platform_0/download.bit"
+18:45:50 WARN  : Given IPC port value is invalid. Using default port 2350
+18:45:50 WARN  : Given XMD timeout value is invalid. Using default value of 50000
+18:45:53 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:45:53 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:45:56 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:45:57 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:45:57 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:45:57 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:45:57 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:45:57 INFO  : Processor reset is completed for sys_mb
+18:45:57 ERROR : Port COM5 is already in use.
+18:45:57 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:45:58 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:45:58 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:45:58 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:45:58 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:45:58 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:45:58 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:45:58 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:46:14 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:46:15 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:46:15 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:46:15 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:46:15 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:46:15 INFO  : Processor reset is completed for sys_mb
+18:46:15 ERROR : Port COM5 is already in use.
+18:46:15 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:46:16 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:46:16 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:46:16 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:46:17 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:46:18 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:46:18 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:46:18 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+18:53:04 INFO  : Project 'sw' created. You can now create BSPs and application projects targeting this hardware platform.
+18:56:14 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+18:56:14 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+18:56:21 INFO  : FPGA configured successfully with bitstream "E:/ad9371_22222/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/sw/download.bit"
+19:01:17 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:02:01 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:02:01 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+19:02:09 INFO  : FPGA configured successfully with bitstream "E:/ad9371_22222/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/sw/download.bit"
+19:02:45 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:02:45 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:02:45 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:02:45 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:02:45 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:02:45 INFO  : Processor reset is completed for sys_mb
+19:02:46 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:02:46 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:02:46 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:02:46 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:02:46 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:02:46 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:02:47 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:02:47 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:03:16 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:03:17 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:03:17 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:03:17 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:03:18 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:03:18 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:03:18 INFO  : Processor reset is completed for sys_mb
+19:03:18 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:03:21 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:03:21 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:03:21 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:03:21 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:03:21 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:03:56 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:03:56 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:10:16 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:10:16 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+19:10:23 INFO  : FPGA configured successfully with bitstream "E:/ad9371_22222/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/sw/download.bit"
+19:10:36 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:10:37 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:10:37 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:10:37 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:10:37 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:10:37 INFO  : Processor reset is completed for sys_mb
+19:10:37 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:10:40 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:10:40 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:10:40 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:10:40 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:10:40 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:11:15 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:11:15 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:34:02 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:34:49 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:34:49 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+19:34:56 INFO  : FPGA configured successfully with bitstream "E:/ad9371_22222/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/sw/download.bit"
+19:38:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+19:38:37 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+19:38:43 INFO  : FPGA configured successfully with bitstream "E:/ad9371_22222/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/sw/download.bit"
+19:39:00 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:39:00 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:39:00 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:39:00 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:39:00 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:39:01 INFO  : Processor reset is completed for sys_mb
+19:39:01 ERROR : Port COM5 is already in use.
+19:39:01 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:39:04 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:39:04 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:39:04 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:39:04 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:39:04 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:39:39 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:39:39 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+19:43:19 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+14:11:53 INFO  : Registering command handlers for SDK TCF services
+14:11:54 INFO  : Launching XSCT server: xsct.bat -interactive E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\temp_xsdb_launch_script.tcl
+14:12:01 INFO  : XSCT server has started successfully.
+14:12:01 INFO  : Successfully done setting XSCT server connection channel  
+14:12:07 INFO  : Successfully done setting SDK workspace  
+14:12:07 INFO  : Processing command line option -hwspec E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/system_top.hdf.
+14:13:11 WARN  : Given IPC port value is invalid. Using default port 2350
+14:13:11 WARN  : Given XMD timeout value is invalid. Using default value of 50000
+14:13:16 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:13:16 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:13:20 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:13:44 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:13:49 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:14:33 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:14:33 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+14:14:40 INFO  : FPGA configured successfully with bitstream "E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/sw/download.bit"
+14:14:57 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:14:57 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:14:57 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:14:57 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:14:57 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:14:57 INFO  : Processor reset is completed for sys_mb
+14:14:57 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:15:16 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:15:16 ERROR : Port COM2 is already in use.
+14:15:42 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:15:42 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:15:42 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:15:42 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:16:23 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:16:23 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:16:23 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:16:23 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:16:23 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:16:23 INFO  : Processor reset is completed for sys_mb
+14:16:23 ERROR : Port COM2 is already in use.
+14:16:23 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:16:25 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:16:26 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:16:26 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:16:26 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:16:26 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:16:51 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:16:51 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:17:25 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:17:25 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:17:25 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:17:25 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:17:25 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:17:25 INFO  : Processor reset is completed for sys_mb
+14:17:25 ERROR : Port COM2 is already in use.
+14:17:25 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:17:28 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:17:28 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:17:28 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:17:28 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:17:28 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:18:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:18:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:18:29 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:18:29 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:18:29 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:18:30 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:18:30 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:18:30 INFO  : Processor reset is completed for sys_mb
+14:18:30 ERROR : Port COM2 is already in use.
+14:18:30 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:18:32 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:18:33 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:18:33 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:18:33 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:18:33 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:18:58 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:18:58 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:31:33 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+14:42:17 INFO  : Registering command handlers for SDK TCF services
+14:42:18 INFO  : Launching XSCT server: xsct.bat -interactive E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\temp_xsdb_launch_script.tcl
+14:42:24 INFO  : XSCT server has started successfully.
+14:42:24 INFO  : Successfully done setting XSCT server connection channel  
+14:42:29 INFO  : Successfully done setting SDK workspace  
+14:42:29 INFO  : Processing command line option -hwspec E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/system_top.hdf.
+14:42:35 ERROR : Error occurred while creating hardware platform system_top_hw_platform_0 from sysdef
+org.eclipse.core.internal.resources.ResourceException: Resource '/system_top_hw_platform_0/system.hdf' already exists.
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:314)
+	at org.eclipse.core.internal.resources.Resource.checkDoesNotExist(Resource.java:301)
+	at org.eclipse.core.internal.resources.File.create(File.java:107)
+	at com.xilinx.sdk.hw.internal.HwProjectCreator.createHwProjectFromZip(HwProjectCreator.java:103)
+	at com.xilinx.sdk.hw.HwProjectUtil.internalCreate(HwProjectUtil.java:266)
+	at com.xilinx.sdk.hw.HwProjectUtil.makeNewHardwareProject(HwProjectUtil.java:210)
+	at com.xilinx.sdk.hw.HwProjectUtil.makeNewHardwareProject(HwProjectUtil.java:197)
+	at com.xilinx.sdk.hw.HwProjectUtil.makeNewHardwareProject(HwProjectUtil.java:171)
+	at com.xilinx.sdk.startup.InitSDK.processHwSpecArgumentTask(InitSDK.java:517)
+	at com.xilinx.sdk.startup.InitSDK.access$8(InitSDK.java:499)
+	at com.xilinx.sdk.startup.InitSDK$12.run(InitSDK.java:450)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+14:42:35 ERROR : Unable to create Hardware Specification Project with specification file: E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/system_top.hdf
+14:46:57 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:46:58 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:47:41 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:47:41 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+14:47:49 INFO  : FPGA configured successfully with bitstream "E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/sw/download.bit"
+14:48:27 WARN  : Given IPC port value is invalid. Using default port 2350
+14:48:27 WARN  : Given XMD timeout value is invalid. Using default value of 50000
+14:48:30 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:48:30 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:48:33 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:48:33 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:48:33 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:48:33 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:48:33 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:48:33 INFO  : Processor reset is completed for sys_mb
+14:48:33 ERROR : Port COM2 is already in use.
+14:48:33 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:48:36 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:48:36 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:48:36 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:48:36 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:48:36 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:49:01 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:49:01 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:52:15 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:52:15 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+14:52:22 INFO  : FPGA configured successfully with bitstream "E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/sw/download.bit"
+14:52:29 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:52:29 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:52:29 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:52:29 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:52:29 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:52:29 INFO  : Processor reset is completed for sys_mb
+14:52:29 ERROR : Port COM2 is already in use.
+14:52:29 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:52:32 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:52:32 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:52:32 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:52:32 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:52:33 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:52:57 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:52:57 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+15:56:03 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+15:56:03 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+15:56:10 INFO  : FPGA configured successfully with bitstream "E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/sw/download.bit"
+15:57:01 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+15:57:01 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+15:57:01 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+15:57:01 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+15:57:01 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+15:57:01 INFO  : Processor reset is completed for sys_mb
+15:57:01 ERROR : Port COM2 is already in use.
+15:57:01 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+15:57:04 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+15:57:04 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+15:57:04 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+15:57:04 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+15:57:04 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+15:57:29 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+15:57:29 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+16:06:31 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+21:03:37 INFO  : Registering command handlers for SDK TCF services
+21:03:39 INFO  : Launching XSCT server: xsct.bat -interactive E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\temp_xsdb_launch_script.tcl
+21:03:45 INFO  : XSCT server has started successfully.
+21:03:47 INFO  : Successfully done setting XSCT server connection channel  
+21:03:47 INFO  : Successfully done setting SDK workspace  
+21:03:47 INFO  : Processing command line option -hwspec E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/system_top.hdf.
+10:10:00 INFO  : Registering command handlers for SDK TCF services
+10:10:02 INFO  : Launching XSCT server: xsct.bat -interactive E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\temp_xsdb_launch_script.tcl
+10:10:10 INFO  : XSCT server has started successfully.
+10:10:11 INFO  : Successfully done setting XSCT server connection channel  
+10:10:16 INFO  : Successfully done setting SDK workspace  
+10:10:16 INFO  : Processing command line option -hwspec E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/system_top.hdf.
+10:10:16 INFO  : Checking for hwspec changes in the project system_top_hw_platform_1.
+10:14:29 INFO  : Project 'ddr' created. You can now create BSPs and application projects targeting this hardware platform.
+10:16:24 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:16:26 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+10:16:33 INFO  : FPGA configured successfully with bitstream "E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/ddr/download.bit"
+10:17:54 WARN  : Given IPC port value is invalid. Using default port 2350
+10:17:54 WARN  : Given XMD timeout value is invalid. Using default value of 50000
+10:17:58 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:17:58 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:18:02 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:18:02 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:18:02 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:18:02 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:18:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:18:03 INFO  : Processor reset is completed for sys_mb
+10:18:03 ERROR : Port COM2 is already in use.
+10:18:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:18:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:18:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:18:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:18:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:18:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:18:04 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:18:04 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:18:42 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:19:18 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:19:19 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+10:19:25 INFO  : FPGA configured successfully with bitstream "E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/ddr/download.bit"
+10:19:50 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:19:50 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:19:50 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:19:50 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:19:50 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:19:50 INFO  : Processor reset is completed for sys_mb
+10:19:50 ERROR : Port COM2 is already in use.
+10:19:50 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:19:50 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:19:51 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:19:51 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:19:51 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:19:51 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:19:51 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:19:51 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:20:39 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:20:39 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:20:39 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:20:40 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:20:40 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:20:40 INFO  : Processor reset is completed for sys_mb
+10:20:40 ERROR : Port COM2 is already in use.
+10:20:40 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:20:40 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:20:40 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:20:40 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:20:40 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:20:40 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:20:41 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:20:41 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:21:01 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:21:01 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:21:01 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:21:01 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:21:02 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:21:02 INFO  : Processor reset is completed for sys_mb
+10:21:02 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:21:06 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:21:06 ERROR : Port COM2 is already in use.
+10:21:23 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:21:23 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:21:23 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:21:23 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:22:30 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:22:30 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+10:22:37 INFO  : FPGA configured successfully with bitstream "E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/ddr/download.bit"
+10:22:51 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:23:10 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:23:10 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:23:10 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:23:10 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:23:10 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:23:10 INFO  : Processor reset is completed for sys_mb
+10:23:10 ERROR : Port COM2 is already in use.
+10:23:10 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:23:10 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:23:11 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:23:11 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:23:11 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:23:11 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:23:11 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:23:11 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:32:58 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:33:38 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:33:38 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+10:33:45 INFO  : FPGA configured successfully with bitstream "E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/sw/download.bit"
+10:34:43 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:34:44 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:34:44 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:34:45 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:34:45 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:34:45 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:34:45 INFO  : Processor reset is completed for sys_mb
+10:34:45 ERROR : Port COM2 is already in use.
+10:34:45 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:34:48 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:34:48 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:34:48 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:34:48 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:34:48 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:35:13 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:35:13 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:28:38 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+10:24:08 INFO  : Registering command handlers for SDK TCF services
+10:24:09 INFO  : Launching XSCT server: xsct.bat -interactive E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\temp_xsdb_launch_script.tcl
+10:24:20 INFO  : XSCT server has started successfully.
+10:24:26 INFO  : Successfully done setting XSCT server connection channel  
+10:24:26 INFO  : Successfully done setting SDK workspace  
+10:24:26 INFO  : Processing command line option -hwspec E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/system_top.hdf.
+10:30:54 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:30:54 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:31:04 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:32:02 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+10:32:02 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+10:32:09 INFO  : FPGA configured successfully with bitstream "E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/sw/download.bit"
+10:32:59 WARN  : Given IPC port value is invalid. Using default port 2350
+10:32:59 WARN  : Given XMD timeout value is invalid. Using default value of 50000
+10:33:04 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:33:04 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:33:08 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:33:08 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:33:08 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:33:08 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:33:09 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:33:09 INFO  : Processor reset is completed for sys_mb
+10:33:09 ERROR : Port COM2 is already in use.
+10:33:09 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:33:12 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:33:12 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:33:12 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:33:12 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:33:12 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:33:37 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+10:33:37 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:50:56 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:54:14 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+14:54:14 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+14:54:21 INFO  : FPGA configured successfully with bitstream "E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.sdk/sw/download.bit"
+14:54:35 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:54:35 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:54:35 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:54:35 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:54:35 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:54:35 INFO  : Processor reset is completed for sys_mb
+14:54:35 ERROR : Port COM2 is already in use.
+14:54:35 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:54:38 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:54:38 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:54:38 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:54:38 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:54:38 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:55:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+14:55:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+15:50:55 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 
+21:24:23 INFO  : Registering command handlers for SDK TCF services
+21:24:25 INFO  : Launching XSCT server: xsct.bat -interactive E:\vivado2017.4\KC705\AD9371\hdl-hdl_2018_r1\projects\adrv9371x\kc705\adrv9371x_kc705.sdk\temp_xsdb_launch_script.tcl
+21:24:32 INFO  : XSCT server has started successfully.
+21:24:32 INFO  : Successfully done setting XSCT server connection channel  
+21:24:37 INFO  : Successfully done setting SDK workspace  
+21:24:37 INFO  : Processing command line option -hwspec E:/vivado2017.4/KC705/AD9371/hdl-hdl_2018_r1/projects/adrv9371x/kc705/adrv9371x_kc705.sdk/system_top.hdf.
+21:24:45 ERROR : Error while setting Hardware Specification Session Property
+org.eclipse.core.internal.resources.ResourceException: Resource '/system_top_hw_platform_0' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:141)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:215)
+	at org.eclipse.core.internal.resources.Resource.setSessionProperty(Resource.java:1754)
+	at com.xilinx.sdk.hw.HwProjectUtil.setProjectHwSpec(HwProjectUtil.java:575)
+	at com.xilinx.sdk.hw.HwProjectUtil.getProjectHwSpec(HwProjectUtil.java:629)
+	at com.xilinx.sdk.hw.HwProjectUtil.getHwSpecForProject(HwProjectUtil.java:318)
+	at com.xilinx.sdk.hw.HwProjectUtil.makeNewHardwareProject(HwProjectUtil.java:186)
+	at com.xilinx.sdk.hw.HwProjectUtil.makeNewHardwareProject(HwProjectUtil.java:171)
+	at com.xilinx.sdk.startup.InitSDK.processHwSpecArgumentTask(InitSDK.java:517)
+	at com.xilinx.sdk.startup.InitSDK.access$8(InitSDK.java:499)
+	at com.xilinx.sdk.startup.InitSDK$12.run(InitSDK.java:450)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+21:24:45 ERROR : Error while setting Hardware Specification Session Property
+org.eclipse.core.internal.resources.ResourceException: Resource '/system_top_hw_platform_0' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:141)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:215)
+	at org.eclipse.core.internal.resources.Resource.setSessionProperty(Resource.java:1754)
+	at com.xilinx.sdk.hw.HwProjectUtil.setProjectHwSpec(HwProjectUtil.java:575)
+	at com.xilinx.sdk.hw.HwProjectUtil.getProjectHwSpec(HwProjectUtil.java:629)
+	at com.xilinx.sdk.hw.HwProjectUtil.getHwSpecForProject(HwProjectUtil.java:318)
+	at com.xilinx.sdk.hw.sync.HwSpecChangeUtil.hasSpecChanged(HwSpecChangeUtil.java:297)
+	at com.xilinx.sdk.hw.sync.HwSpecChangeUtil.hasChanges(HwSpecChangeUtil.java:72)
+	at com.xilinx.sdk.hw.sync.HwPlatformMonitor.doMonitorTask(HwPlatformMonitor.java:52)
+	at com.xilinx.sdk.hw.sync.HwPlatformMonitor.access$0(HwPlatformMonitor.java:41)
+	at com.xilinx.sdk.hw.sync.HwPlatformMonitor$1.run(HwPlatformMonitor.java:33)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4203)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3819)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:165)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:369)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:319)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:636)
+	at org.eclipse.ltk.ui.refactoring.UserInputWizardPage.performFinish(UserInputWizardPage.java:145)
+	at org.eclipse.ltk.ui.refactoring.resource.DeleteResourcesWizard$DeleteResourcesRefactoringConfigurationPage.performFinish(DeleteResourcesWizard.java:202)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:710)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:445)
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:466)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:618)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation$1.run(RefactoringWizardOpenOperation.java:188)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:203)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:122)
+	at org.eclipse.ltk.internal.ui.refactoring.actions.DeleteResourcesHandler.execute(DeleteResourcesHandler.java:41)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:282)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:494)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommandInContext(LegacyHandlerService.java:405)
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.runCommand(LTKLauncher.java:96)
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.openDeleteWizard(LTKLauncher.java:48)
+	at org.eclipse.ui.actions.DeleteResourceAction.run(DeleteResourceAction.java:445)
+	at org.eclipse.ui.actions.BaseSelectionListenerAction.runWithEvent(BaseSelectionListenerAction.java:167)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+21:24:45 ERROR : Unexpected error while getting time stamp of source hardware specification file for project system_top_hw_platform_0
+org.eclipse.core.internal.resources.ResourceException: Resource '/system_top_hw_platform_0' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:141)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:215)
+	at org.eclipse.core.internal.resources.Resource.getPersistentProperty(Resource.java:1151)
+	at com.xilinx.sdk.hw.HwProjectUtil.getTimeModified(HwProjectUtil.java:761)
+	at com.xilinx.sdk.hw.sync.HwSpecChangeUtil.hasSpecChanged(HwSpecChangeUtil.java:309)
+	at com.xilinx.sdk.hw.sync.HwSpecChangeUtil.hasChanges(HwSpecChangeUtil.java:72)
+	at com.xilinx.sdk.hw.sync.HwPlatformMonitor.doMonitorTask(HwPlatformMonitor.java:52)
+	at com.xilinx.sdk.hw.sync.HwPlatformMonitor.access$0(HwPlatformMonitor.java:41)
+	at com.xilinx.sdk.hw.sync.HwPlatformMonitor$1.run(HwPlatformMonitor.java:33)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4203)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3819)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:165)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:369)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:319)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:636)
+	at org.eclipse.ltk.ui.refactoring.UserInputWizardPage.performFinish(UserInputWizardPage.java:145)
+	at org.eclipse.ltk.ui.refactoring.resource.DeleteResourcesWizard$DeleteResourcesRefactoringConfigurationPage.performFinish(DeleteResourcesWizard.java:202)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:710)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:445)
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:466)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:618)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation$1.run(RefactoringWizardOpenOperation.java:188)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:203)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:122)
+	at org.eclipse.ltk.internal.ui.refactoring.actions.DeleteResourcesHandler.execute(DeleteResourcesHandler.java:41)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:282)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:494)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommandInContext(LegacyHandlerService.java:405)
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.runCommand(LTKLauncher.java:96)
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.openDeleteWizard(LTKLauncher.java:48)
+	at org.eclipse.ui.actions.DeleteResourceAction.run(DeleteResourceAction.java:445)
+	at org.eclipse.ui.actions.BaseSelectionListenerAction.runWithEvent(BaseSelectionListenerAction.java:167)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+21:24:45 WARN  : Could not determine last modfied timestamp of source hardware specification file for project system_top_hw_platform_0. Trying to update it now.
+21:24:45 ERROR : Unexpected error while saving time stamp of source hardware specification file for project system_top_hw_platform_0
+org.eclipse.core.internal.resources.ResourceException: Resource '/system_top_hw_platform_0' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:141)
+	at org.eclipse.core.internal.resources.Resource.checkAccessibleAndLocal(Resource.java:215)
+	at org.eclipse.core.internal.resources.Resource.setPersistentProperty(Resource.java:1725)
+	at com.xilinx.sdk.hw.HwProjectUtil.saveTimeModified(HwProjectUtil.java:747)
+	at com.xilinx.sdk.hw.sync.HwSpecChangeUtil.hasSpecChanged(HwSpecChangeUtil.java:315)
+	at com.xilinx.sdk.hw.sync.HwSpecChangeUtil.hasChanges(HwSpecChangeUtil.java:72)
+	at com.xilinx.sdk.hw.sync.HwPlatformMonitor.doMonitorTask(HwPlatformMonitor.java:52)
+	at com.xilinx.sdk.hw.sync.HwPlatformMonitor.access$0(HwPlatformMonitor.java:41)
+	at com.xilinx.sdk.hw.sync.HwPlatformMonitor$1.run(HwPlatformMonitor.java:33)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4203)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3819)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.block(ModalContext.java:165)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:369)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.run(RefactoringWizardDialog2.java:319)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.internalPerformFinish(RefactoringWizard.java:636)
+	at org.eclipse.ltk.ui.refactoring.UserInputWizardPage.performFinish(UserInputWizardPage.java:145)
+	at org.eclipse.ltk.ui.refactoring.resource.DeleteResourcesWizard$DeleteResourcesRefactoringConfigurationPage.performFinish(DeleteResourcesWizard.java:202)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizard.performFinish(RefactoringWizard.java:710)
+	at org.eclipse.ltk.internal.ui.refactoring.RefactoringWizardDialog2.okPressed(RefactoringWizardDialog2.java:445)
+	at org.eclipse.jface.dialogs.Dialog.buttonPressed(Dialog.java:466)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:618)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation$1.run(RefactoringWizardOpenOperation.java:188)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:203)
+	at org.eclipse.ltk.ui.refactoring.RefactoringWizardOpenOperation.run(RefactoringWizardOpenOperation.java:122)
+	at org.eclipse.ltk.internal.ui.refactoring.actions.DeleteResourcesHandler.execute(DeleteResourcesHandler.java:41)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:55)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:282)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:494)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommandInContext(LegacyHandlerService.java:405)
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.runCommand(LTKLauncher.java:96)
+	at org.eclipse.ui.internal.ide.actions.LTKLauncher.openDeleteWizard(LTKLauncher.java:48)
+	at org.eclipse.ui.actions.DeleteResourceAction.run(DeleteResourceAction.java:445)
+	at org.eclipse.ui.actions.BaseSelectionListenerAction.runWithEvent(BaseSelectionListenerAction.java:167)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+21:25:37 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:25:40 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:26:23 INFO  : Connected to target on host '127.0.0.1' and port '3121'.
+21:26:23 INFO  : 'targets -set -filter {jtag_cable_name =~ "Digilent JTAG-SMT1 210203A02B93A" && level==0} -index 0' command is executed.
+21:26:30 INFO  : FPGA configured successfully with bitstream "E:/vivado2017.4/KC705/AD9371/hdl-hdl_2018_r1/projects/adrv9371x/kc705/adrv9371x_kc705.sdk/sw/download.bit"
+21:27:47 WARN  : Given IPC port value is invalid. Using default port 2350
+21:27:47 WARN  : Given XMD timeout value is invalid. Using default value of 50000
+21:27:50 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:27:50 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:27:54 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:27:54 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:27:54 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:27:55 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:27:55 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:27:55 INFO  : Processor reset is completed for sys_mb
+21:27:55 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:28:14 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:28:14 ERROR : Port COM2 is already in use.
+21:28:36 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:28:36 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:28:36 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:28:36 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:28:49 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:29:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:29:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:29:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:29:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:29:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:29:03 INFO  : Processor reset is completed for sys_mb
+21:29:03 ERROR : Port COM2 is already in use.
+21:29:03 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:29:06 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:29:06 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:29:06 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:29:06 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:29:06 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:29:31 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:29:31 WARN  : Given XMD transaction timeout value is invalid. Using default value of 60000 milli seconds
+21:30:45 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 

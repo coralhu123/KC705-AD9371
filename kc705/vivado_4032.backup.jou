@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4.1 (64-bit)
+# SW Build 2117270 on Tue Jan 30 15:32:00 MST 2018
+# IP Build 2095745 on Tue Jan 30 17:13:15 MST 2018
+# Start of session at: Thu Sep 20 11:50:09 2018
+# Process ID: 4032
+# Current directory: E:/github/hdl-hdl_2018_r1/projects/adrv9371x/kcu105
+# Command line: vivado.exe -mode batch -source system_project.tcl
+# Log file: E:/github/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/vivado.log
+# Journal file: E:/github/hdl-hdl_2018_r1/projects/adrv9371x/kcu105\vivado.jou
+#-----------------------------------------------------------
+source system_project.tcl

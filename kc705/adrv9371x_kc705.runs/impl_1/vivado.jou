@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4.1 (64-bit)
+# SW Build 2117270 on Tue Jan 30 15:32:00 MST 2018
+# IP Build 2095745 on Tue Jan 30 17:13:15 MST 2018
+# Start of session at: Wed Oct 24 13:56:08 2018
+# Process ID: 4756
+# Current directory: E:/vivado2017.4/AD9371-KC705/work/kc705/adrv9371x_kc705.runs/impl_1
+# Command line: vivado.exe -log system_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source system_top.tcl -notrace
+# Log file: E:/vivado2017.4/AD9371-KC705/work/kc705/adrv9371x_kc705.runs/impl_1/system_top.vdi
+# Journal file: E:/vivado2017.4/AD9371-KC705/work/kc705/adrv9371x_kc705.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source system_top.tcl -notrace

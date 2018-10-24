@@ -1,0 +1,896 @@
+18:35:20 **** Build of project ddr_bsp ****
+make -k all 
+"Running Make include in sys_mb/libsrc/axidma_v9_5/src"
+make -C sys_mb/libsrc/axidma_v9_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/axiethernet_v5_6/src"
+make -C sys_mb/libsrc/axiethernet_v5_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/bram_v4_2/src"
+make -C sys_mb/libsrc/bram_v4_2/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/cpu_v2_6/src"
+make -C sys_mb/libsrc/cpu_v2_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/gpio_v4_3/src"
+make -C sys_mb/libsrc/gpio_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/iic_v3_4/src"
+make -C sys_mb/libsrc/iic_v3_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/intc_v3_7/src"
+make -C sys_mb/libsrc/intc_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/spi_v4_3/src"
+make -C sys_mb/libsrc/spi_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/standalone_v6_5/src"
+make -C sys_mb/libsrc/standalone_v6_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/tmrctr_v4_4/src"
+make -C sys_mb/libsrc/tmrctr_v4_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/uartlite_v3_2/src"
+make -C sys_mb/libsrc/uartlite_v3_2/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make libs in sys_mb/libsrc/axidma_v9_5/src"
+make -C sys_mb/libsrc/axidma_v9_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling axidma"
+mb-ar: creating ../../../lib/libxil.a
+"Running Make libs in sys_mb/libsrc/axiethernet_v5_6/src"
+make -C sys_mb/libsrc/axiethernet_v5_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling axiethernet"
+"Running Make libs in sys_mb/libsrc/bram_v4_2/src"
+make -C sys_mb/libsrc/bram_v4_2/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling bram"
+"Running Make libs in sys_mb/libsrc/cpu_v2_6/src"
+make -C sys_mb/libsrc/cpu_v2_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling cpu"
+"Running Make libs in sys_mb/libsrc/gpio_v4_3/src"
+make -C sys_mb/libsrc/gpio_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling gpio"
+"Running Make libs in sys_mb/libsrc/iic_v3_4/src"
+make -C sys_mb/libsrc/iic_v3_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling iic"
+"Running Make libs in sys_mb/libsrc/intc_v3_7/src"
+make -C sys_mb/libsrc/intc_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling intc"
+"Running Make libs in sys_mb/libsrc/spi_v4_3/src"
+make -C sys_mb/libsrc/spi_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling spi"
+"Running Make libs in sys_mb/libsrc/standalone_v6_5/src"
+make -C sys_mb/libsrc/standalone_v6_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling standalone";
+"Running Make libs in sys_mb/libsrc/tmrctr_v4_4/src"
+make -C sys_mb/libsrc/tmrctr_v4_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling tmrctr"
+"Running Make libs in sys_mb/libsrc/uartlite_v3_2/src"
+make -C sys_mb/libsrc/uartlite_v3_2/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling uartlite"
+'Finished building libraries'
+18:37:46 **** Build of configuration Debug for project ddr ****
+make all 
+'Building file: ../src/memory_config_g.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/memory_config_g.o" -I../../ddr_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/memory_config_g.d" -MT"src/memory_config_g.o" -o "src/memory_config_g.o" "../src/memory_config_g.c"
+'Finished building: ../src/memory_config_g.c'
+' '
+'Building file: ../src/memorytest.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/memorytest.o" -I../../ddr_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/memorytest.d" -MT"src/memorytest.o" -o "src/memorytest.o" "../src/memorytest.c"
+'Finished building: ../src/memorytest.c'
+' '
+'Building file: ../src/platform.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -I../../ddr_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+'Finished building: ../src/platform.c'
+' '
+'Building target: ddr.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../ddr_bsp/sys_mb/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -Wl,--gc-sections -o "ddr.elf"  ./src/memory_config_g.o ./src/memorytest.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: ddr.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size ddr.elf  |tee "ddr.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+   8318	    524	   1070	   9912	   26b8	ddr.elf
+'Finished building: ddr.elf.size'
+' '
+18:45:48 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+18:46:12 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+18:53:24 **** Build of project hw_bsp ****
+make -k all 
+"Running Make include in sys_mb/libsrc/axidma_v9_5/src"
+make -C sys_mb/libsrc/axidma_v9_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/axiethernet_v5_6/src"
+make -C sys_mb/libsrc/axiethernet_v5_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/bram_v4_2/src"
+make -C sys_mb/libsrc/bram_v4_2/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/cpu_v2_6/src"
+make -C sys_mb/libsrc/cpu_v2_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/gpio_v4_3/src"
+make -C sys_mb/libsrc/gpio_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/iic_v3_4/src"
+make -C sys_mb/libsrc/iic_v3_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/intc_v3_7/src"
+make -C sys_mb/libsrc/intc_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/spi_v4_3/src"
+make -C sys_mb/libsrc/spi_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/standalone_v6_5/src"
+make -C sys_mb/libsrc/standalone_v6_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/tmrctr_v4_4/src"
+make -C sys_mb/libsrc/tmrctr_v4_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/uartlite_v3_2/src"
+make -C sys_mb/libsrc/uartlite_v3_2/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make libs in sys_mb/libsrc/axidma_v9_5/src"
+make -C sys_mb/libsrc/axidma_v9_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling axidma"
+mb-ar: creating ../../../lib/libxil.a
+"Running Make libs in sys_mb/libsrc/axiethernet_v5_6/src"
+make -C sys_mb/libsrc/axiethernet_v5_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling axiethernet"
+"Running Make libs in sys_mb/libsrc/bram_v4_2/src"
+make -C sys_mb/libsrc/bram_v4_2/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling bram"
+"Running Make libs in sys_mb/libsrc/cpu_v2_6/src"
+make -C sys_mb/libsrc/cpu_v2_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling cpu"
+"Running Make libs in sys_mb/libsrc/gpio_v4_3/src"
+make -C sys_mb/libsrc/gpio_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling gpio"
+"Running Make libs in sys_mb/libsrc/iic_v3_4/src"
+make -C sys_mb/libsrc/iic_v3_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling iic"
+"Running Make libs in sys_mb/libsrc/intc_v3_7/src"
+make -C sys_mb/libsrc/intc_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling intc"
+"Running Make libs in sys_mb/libsrc/spi_v4_3/src"
+make -C sys_mb/libsrc/spi_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling spi"
+"Running Make libs in sys_mb/libsrc/standalone_v6_5/src"
+make -C sys_mb/libsrc/standalone_v6_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling standalone";
+"Running Make libs in sys_mb/libsrc/tmrctr_v4_4/src"
+make -C sys_mb/libsrc/tmrctr_v4_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling tmrctr"
+"Running Make libs in sys_mb/libsrc/uartlite_v3_2/src"
+make -C sys_mb/libsrc/uartlite_v3_2/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling uartlite"
+'Finished building libraries'
+18:55:14 **** Build of configuration Debug for project hw ****
+make all 
+'Building file: ../src/mykonos/mykonos_debug/mykonos_dbgjesd.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/mykonos/mykonos_debug/mykonos_dbgjesd.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonos_debug/mykonos_dbgjesd.d" -MT"src/mykonos/mykonos_debug/mykonos_dbgjesd.o" -o "src/mykonos/mykonos_debug/mykonos_dbgjesd.o" "../src/mykonos/mykonos_debug/mykonos_dbgjesd.c"
+In file included from ../src/mykonos/mykonos_debug/mykonos_dbgjesd.c:19:0:
+../src/mykonos/mykonos_debug/mykonos_dbgjesd.h:23:21: fatal error: mykonos.h: No such file or directory
+ #include "mykonos.h"
+                     ^
+compilation terminated.
+make: *** [src/mykonos/mykonos_debug/mykonos_dbgjesd.o] ´íÎó 1
+18:57:52 **** Clean-only build of configuration Debug for project hw ****
+make clean 
+rm -rf  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.o  ./src/mykonos/mykonos.o ./src/mykonos/mykonosMmap.o ./src/mykonos/mykonos_gpio.o ./src/mykonos/mykonos_user.o  ./src/ad9528/ad9528.o  ./src/adc_core.o ./src/clkgen_core.o ./src/common.o ./src/dac_core.o ./src/headless.o ./src/jesd_core.o ./src/myko.o ./src/myko_ad9528init.o ./src/platform_drivers.o  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.d  ./src/mykonos/mykonos.d ./src/mykonos/mykonosMmap.d ./src/mykonos/mykonos_gpio.d ./src/mykonos/mykonos_user.d  ./src/ad9528/ad9528.d  ./src/adc_core.d ./src/clkgen_core.d ./src/common.d ./src/dac_core.d ./src/headless.d ./src/jesd_core.d ./src/myko.d ./src/myko_ad9528init.d ./src/platform_drivers.d  hw.elf.size  hw.elf
+' '
+18:57:54 **** Auto Build of configuration Debug for project hw ****
+make all 
+'Building file: ../src/mykonos/mykonos_debug/mykonos_dbgjesd.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/mykonos/mykonos_debug/mykonos_dbgjesd.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonos_debug/mykonos_dbgjesd.d" -MT"src/mykonos/mykonos_debug/mykonos_dbgjesd.o" -o "src/mykonos/mykonos_debug/mykonos_dbgjesd.o" "../src/mykonos/mykonos_debug/mykonos_dbgjesd.c"
+'Finished building: ../src/mykonos/mykonos_debug/mykonos_dbgjesd.c'
+' '
+'Building file: ../src/mykonos/mykonos.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/mykonos/mykonos.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonos.d" -MT"src/mykonos/mykonos.o" -o "src/mykonos/mykonos.o" "../src/mykonos/mykonos.c"
+'Finished building: ../src/mykonos/mykonos.c'
+' '
+'Building file: ../src/mykonos/mykonosMmap.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/mykonos/mykonosMmap.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonosMmap.d" -MT"src/mykonos/mykonosMmap.o" -o "src/mykonos/mykonosMmap.o" "../src/mykonos/mykonosMmap.c"
+'Finished building: ../src/mykonos/mykonosMmap.c'
+' '
+'Building file: ../src/mykonos/mykonos_gpio.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/mykonos/mykonos_gpio.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonos_gpio.d" -MT"src/mykonos/mykonos_gpio.o" -o "src/mykonos/mykonos_gpio.o" "../src/mykonos/mykonos_gpio.c"
+'Finished building: ../src/mykonos/mykonos_gpio.c'
+' '
+'Building file: ../src/mykonos/mykonos_user.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/mykonos/mykonos_user.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonos_user.d" -MT"src/mykonos/mykonos_user.o" -o "src/mykonos/mykonos_user.o" "../src/mykonos/mykonos_user.c"
+'Finished building: ../src/mykonos/mykonos_user.c'
+' '
+'Building file: ../src/ad9528/ad9528.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/ad9528/ad9528.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/ad9528/ad9528.d" -MT"src/ad9528/ad9528.o" -o "src/ad9528/ad9528.o" "../src/ad9528/ad9528.c"
+'Finished building: ../src/ad9528/ad9528.c'
+' '
+'Building file: ../src/adc_core.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/adc_core.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/adc_core.d" -MT"src/adc_core.o" -o "src/adc_core.o" "../src/adc_core.c"
+'Finished building: ../src/adc_core.c'
+' '
+'Building file: ../src/clkgen_core.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/clkgen_core.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/clkgen_core.d" -MT"src/clkgen_core.o" -o "src/clkgen_core.o" "../src/clkgen_core.c"
+'Finished building: ../src/clkgen_core.c'
+' '
+'Building file: ../src/common.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/common.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/common.d" -MT"src/common.o" -o "src/common.o" "../src/common.c"
+'Finished building: ../src/common.c'
+' '
+'Building file: ../src/dac_core.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/dac_core.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/dac_core.d" -MT"src/dac_core.o" -o "src/dac_core.o" "../src/dac_core.c"
+'Finished building: ../src/dac_core.c'
+' '
+'Building file: ../src/headless.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/headless.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/headless.d" -MT"src/headless.o" -o "src/headless.o" "../src/headless.c"
+In file included from ../src/headless.c:54:0:
+../src/parameters.h:66:28: error: 'XPAR_AXI_DDR_CNTRL_BASEADDR' undeclared here (not in a function)
+ #define ADC_DDR_BASEADDR   XPAR_AXI_DDR_CNTRL_BASEADDR + 0x800000
+                            ^
+../src/headless.c:68:3: note: in expansion of macro 'ADC_DDR_BASEADDR'
+   ADC_DDR_BASEADDR    // adc_ddr_baseaddr
+   ^~~~~~~~~~~~~~~~
+make: *** [src/headless.o] ´íÎó 1
+18:58:26 **** Clean-only build of configuration Debug for project hw ****
+make clean 
+rm -rf  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.o  ./src/mykonos/mykonos.o ./src/mykonos/mykonosMmap.o ./src/mykonos/mykonos_gpio.o ./src/mykonos/mykonos_user.o  ./src/ad9528/ad9528.o  ./src/adc_core.o ./src/clkgen_core.o ./src/common.o ./src/dac_core.o ./src/headless.o ./src/jesd_core.o ./src/myko.o ./src/myko_ad9528init.o ./src/platform_drivers.o  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.d  ./src/mykonos/mykonos.d ./src/mykonos/mykonosMmap.d ./src/mykonos/mykonos_gpio.d ./src/mykonos/mykonos_user.d  ./src/ad9528/ad9528.d  ./src/adc_core.d ./src/clkgen_core.d ./src/common.d ./src/dac_core.d ./src/headless.d ./src/jesd_core.d ./src/myko.d ./src/myko_ad9528init.d ./src/platform_drivers.d  hw.elf.size hw.elf.size  hw.elf
+' '
+18:58:29 **** Auto Build of configuration Debug for project hw ****
+make all 
+'Building file: ../src/mykonos/mykonos_debug/mykonos_dbgjesd.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/mykonos/mykonos_debug/mykonos_dbgjesd.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonos_debug/mykonos_dbgjesd.d" -MT"src/mykonos/mykonos_debug/mykonos_dbgjesd.o" -o "src/mykonos/mykonos_debug/mykonos_dbgjesd.o" "../src/mykonos/mykonos_debug/mykonos_dbgjesd.c"
+'Finished building: ../src/mykonos/mykonos_debug/mykonos_dbgjesd.c'
+' '
+'Building file: ../src/mykonos/mykonos.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/mykonos/mykonos.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonos.d" -MT"src/mykonos/mykonos.o" -o "src/mykonos/mykonos.o" "../src/mykonos/mykonos.c"
+'Finished building: ../src/mykonos/mykonos.c'
+' '
+'Building file: ../src/mykonos/mykonosMmap.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/mykonos/mykonosMmap.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonosMmap.d" -MT"src/mykonos/mykonosMmap.o" -o "src/mykonos/mykonosMmap.o" "../src/mykonos/mykonosMmap.c"
+'Finished building: ../src/mykonos/mykonosMmap.c'
+' '
+'Building file: ../src/mykonos/mykonos_gpio.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/mykonos/mykonos_gpio.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonos_gpio.d" -MT"src/mykonos/mykonos_gpio.o" -o "src/mykonos/mykonos_gpio.o" "../src/mykonos/mykonos_gpio.c"
+'Finished building: ../src/mykonos/mykonos_gpio.c'
+' '
+'Building file: ../src/mykonos/mykonos_user.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/mykonos/mykonos_user.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonos_user.d" -MT"src/mykonos/mykonos_user.o" -o "src/mykonos/mykonos_user.o" "../src/mykonos/mykonos_user.c"
+'Finished building: ../src/mykonos/mykonos_user.c'
+' '
+'Building file: ../src/ad9528/ad9528.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/ad9528/ad9528.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/ad9528/ad9528.d" -MT"src/ad9528/ad9528.o" -o "src/ad9528/ad9528.o" "../src/ad9528/ad9528.c"
+'Finished building: ../src/ad9528/ad9528.c'
+' '
+'Building file: ../src/adc_core.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/adc_core.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/adc_core.d" -MT"src/adc_core.o" -o "src/adc_core.o" "../src/adc_core.c"
+'Finished building: ../src/adc_core.c'
+' '
+'Building file: ../src/clkgen_core.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/clkgen_core.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/clkgen_core.d" -MT"src/clkgen_core.o" -o "src/clkgen_core.o" "../src/clkgen_core.c"
+'Finished building: ../src/clkgen_core.c'
+' '
+'Building file: ../src/common.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/common.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/common.d" -MT"src/common.o" -o "src/common.o" "../src/common.c"
+'Finished building: ../src/common.c'
+' '
+'Building file: ../src/dac_core.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/dac_core.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/dac_core.d" -MT"src/dac_core.o" -o "src/dac_core.o" "../src/dac_core.c"
+'Finished building: ../src/dac_core.c'
+' '
+'Building file: ../src/headless.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/headless.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/headless.d" -MT"src/headless.o" -o "src/headless.o" "../src/headless.c"
+In file included from ../src/headless.c:54:0:
+../src/parameters.h:66:28: error: 'XPAR_AXI_DDR_CNTRL_BASEADDR' undeclared here (not in a function)
+ #define ADC_DDR_BASEADDR   XPAR_AXI_DDR_CNTRL_BASEADDR + 0x800000
+                            ^
+../src/headless.c:68:3: note: in expansion of macro 'ADC_DDR_BASEADDR'
+   ADC_DDR_BASEADDR    // adc_ddr_baseaddr
+   ^~~~~~~~~~~~~~~~
+make: *** [src/headless.o] ´íÎó 1
+19:00:43 **** Auto Build of configuration Debug for project hw ****
+make all 
+'Building file: ../src/headless.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/headless.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/headless.d" -MT"src/headless.o" -o "src/headless.o" "../src/headless.c"
+'Finished building: ../src/headless.c'
+' '
+'Building file: ../src/jesd_core.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/jesd_core.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/jesd_core.d" -MT"src/jesd_core.o" -o "src/jesd_core.o" "../src/jesd_core.c"
+'Finished building: ../src/jesd_core.c'
+' '
+'Building file: ../src/myko.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/myko.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/myko.d" -MT"src/myko.o" -o "src/myko.o" "../src/myko.c"
+../src/myko.c:507:34: warning: 'tempStatus' defined but not used [-Wunused-variable]
+ static mykonosTempSensorStatus_t tempStatus =
+                                  ^~~~~~~~~~
+../src/myko.c:499:34: warning: 'tempSensor' defined but not used [-Wunused-variable]
+ static mykonosTempSensorConfig_t tempSensor =
+                                  ^~~~~~~~~~
+../src/myko.c:387:28: warning: 'vswrConfig' defined but not used [-Wunused-variable]
+ static mykonosVswrConfig_t vswrConfig =
+                            ^~~~~~~~~~
+../src/myko.c:369:28: warning: 'clgcConfig' defined but not used [-Wunused-variable]
+ static mykonosClgcConfig_t clgcConfig =
+                            ^~~~~~~~~~
+../src/myko.c:354:27: warning: 'dpdConfig' defined but not used [-Wunused-variable]
+ static mykonosDpdConfig_t dpdConfig =
+                           ^~~~~~~~~
+'Finished building: ../src/myko.c'
+' '
+'Building file: ../src/myko_ad9528init.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/myko_ad9528init.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/myko_ad9528init.d" -MT"src/myko_ad9528init.o" -o "src/myko_ad9528init.o" "../src/myko_ad9528init.c"
+'Finished building: ../src/myko_ad9528init.c'
+' '
+'Building file: ../src/platform_drivers.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/platform_drivers.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/platform_drivers.d" -MT"src/platform_drivers.o" -o "src/platform_drivers.o" "../src/platform_drivers.c"
+'Finished building: ../src/platform_drivers.c'
+' '
+'Building target: hw.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../hw_bsp/sys_mb/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -Wl,--gc-sections -o "hw.elf"  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.o  ./src/mykonos/mykonos.o ./src/mykonos/mykonosMmap.o ./src/mykonos/mykonos_gpio.o ./src/mykonos/mykonos_user.o  ./src/ad9528/ad9528.o  ./src/adc_core.o ./src/clkgen_core.o ./src/common.o ./src/dac_core.o ./src/headless.o ./src/jesd_core.o ./src/myko.o ./src/myko_ad9528init.o ./src/platform_drivers.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hw.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size hw.elf  |tee "hw.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 259814	 101960	   3218	 364992	  591c0	hw.elf
+'Finished building: hw.elf.size'
+' '
+19:01:04 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+19:01:06 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+19:02:38 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+19:02:39 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+19:03:11 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+19:03:13 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+19:06:05 **** Clean-only build of configuration Debug for project hw ****
+make clean 
+rm -rf  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.o  ./src/mykonos/mykonos.o ./src/mykonos/mykonosMmap.o ./src/mykonos/mykonos_gpio.o ./src/mykonos/mykonos_user.o  ./src/ad9528/ad9528.o  ./src/adc_core.o ./src/clkgen_core.o ./src/common.o ./src/dac_core.o ./src/headless.o ./src/jesd_core.o ./src/myko.o ./src/myko_ad9528init.o ./src/platform_drivers.o  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.d  ./src/mykonos/mykonos.d ./src/mykonos/mykonosMmap.d ./src/mykonos/mykonos_gpio.d ./src/mykonos/mykonos_user.d  ./src/ad9528/ad9528.d  ./src/adc_core.d ./src/clkgen_core.d ./src/common.d ./src/dac_core.d ./src/headless.d ./src/jesd_core.d ./src/myko.d ./src/myko_ad9528init.d ./src/platform_drivers.d  hw.elf.size hw.elf.size  hw.elf
+' '
+19:06:11 **** Auto Build of configuration Debug for project hw ****
+make all 
+'Building file: ../src/mykonos/mykonos_debug/mykonos_dbgjesd.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/mykonos/mykonos_debug/mykonos_dbgjesd.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonos_debug/mykonos_dbgjesd.d" -MT"src/mykonos/mykonos_debug/mykonos_dbgjesd.o" -o "src/mykonos/mykonos_debug/mykonos_dbgjesd.o" "../src/mykonos/mykonos_debug/mykonos_dbgjesd.c"
+'Finished building: ../src/mykonos/mykonos_debug/mykonos_dbgjesd.c'
+' '
+'Building file: ../src/mykonos/mykonos.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/mykonos/mykonos.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonos.d" -MT"src/mykonos/mykonos.o" -o "src/mykonos/mykonos.o" "../src/mykonos/mykonos.c"
+'Finished building: ../src/mykonos/mykonos.c'
+' '
+'Building file: ../src/mykonos/mykonosMmap.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/mykonos/mykonosMmap.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonosMmap.d" -MT"src/mykonos/mykonosMmap.o" -o "src/mykonos/mykonosMmap.o" "../src/mykonos/mykonosMmap.c"
+'Finished building: ../src/mykonos/mykonosMmap.c'
+' '
+'Building file: ../src/mykonos/mykonos_gpio.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/mykonos/mykonos_gpio.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonos_gpio.d" -MT"src/mykonos/mykonos_gpio.o" -o "src/mykonos/mykonos_gpio.o" "../src/mykonos/mykonos_gpio.c"
+'Finished building: ../src/mykonos/mykonos_gpio.c'
+' '
+'Building file: ../src/mykonos/mykonos_user.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/mykonos/mykonos_user.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/mykonos/mykonos_user.d" -MT"src/mykonos/mykonos_user.o" -o "src/mykonos/mykonos_user.o" "../src/mykonos/mykonos_user.c"
+'Finished building: ../src/mykonos/mykonos_user.c'
+' '
+'Building file: ../src/ad9528/ad9528.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/ad9528/ad9528.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/ad9528/ad9528.d" -MT"src/ad9528/ad9528.o" -o "src/ad9528/ad9528.o" "../src/ad9528/ad9528.c"
+'Finished building: ../src/ad9528/ad9528.c'
+' '
+'Building file: ../src/adc_core.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/adc_core.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/adc_core.d" -MT"src/adc_core.o" -o "src/adc_core.o" "../src/adc_core.c"
+'Finished building: ../src/adc_core.c'
+' '
+'Building file: ../src/clkgen_core.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/clkgen_core.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/clkgen_core.d" -MT"src/clkgen_core.o" -o "src/clkgen_core.o" "../src/clkgen_core.c"
+'Finished building: ../src/clkgen_core.c'
+' '
+'Building file: ../src/common.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/common.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/common.d" -MT"src/common.o" -o "src/common.o" "../src/common.c"
+'Finished building: ../src/common.c'
+' '
+'Building file: ../src/dac_core.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/dac_core.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/dac_core.d" -MT"src/dac_core.o" -o "src/dac_core.o" "../src/dac_core.c"
+'Finished building: ../src/dac_core.c'
+' '
+'Building file: ../src/headless.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/headless.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/headless.d" -MT"src/headless.o" -o "src/headless.o" "../src/headless.c"
+'Finished building: ../src/headless.c'
+' '
+'Building file: ../src/jesd_core.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/jesd_core.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/jesd_core.d" -MT"src/jesd_core.o" -o "src/jesd_core.o" "../src/jesd_core.c"
+'Finished building: ../src/jesd_core.c'
+' '
+'Building file: ../src/platform_drivers.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/platform_drivers.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/platform_drivers.d" -MT"src/platform_drivers.o" -o "src/platform_drivers.o" "../src/platform_drivers.c"
+'Finished building: ../src/platform_drivers.c'
+' '
+'Building target: hw.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../hw_bsp/sys_mb/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -Wl,--gc-sections -o "hw.elf"  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.o  ./src/mykonos/mykonos.o ./src/mykonos/mykonosMmap.o ./src/mykonos/mykonos_gpio.o ./src/mykonos/mykonos_user.o  ./src/ad9528/ad9528.o  ./src/adc_core.o ./src/clkgen_core.o ./src/common.o ./src/dac_core.o ./src/headless.o ./src/jesd_core.o ./src/platform_drivers.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+./src/headless.o: In function `main':
+E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\Debug/../src/headless.c:131: undefined reference to `clockAD9528_'
+E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\Debug/../src/headless.c:187: undefined reference to `mykDevice'
+E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\Debug/../src/headless.c:194: undefined reference to `mykDevice'
+E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\Debug/../src/headless.c:205: undefined reference to `mykDevice'
+E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\Debug/../src/headless.c:210: undefined reference to `mykDevice'
+E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\Debug/../src/headless.c:219: undefined reference to `mykDevice'
+./src/headless.o:E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\Debug/../src/headless.c:228: more undefined references to `mykDevice' follow
+collect2.exe: error: ld returned 1 exit status
+make: *** [hw.elf] ´íÎó 1
+19:07:16 **** Auto Build of configuration Debug for project hw ****
+make all 
+'Building file: ../src/myko.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/myko.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/myko.d" -MT"src/myko.o" -o "src/myko.o" "../src/myko.c"
+../src/myko.c:507:34: warning: 'tempStatus' defined but not used [-Wunused-variable]
+ static mykonosTempSensorStatus_t tempStatus =
+                                  ^~~~~~~~~~
+../src/myko.c:499:34: warning: 'tempSensor' defined but not used [-Wunused-variable]
+ static mykonosTempSensorConfig_t tempSensor =
+                                  ^~~~~~~~~~
+../src/myko.c:387:28: warning: 'vswrConfig' defined but not used [-Wunused-variable]
+ static mykonosVswrConfig_t vswrConfig =
+                            ^~~~~~~~~~
+../src/myko.c:369:28: warning: 'clgcConfig' defined but not used [-Wunused-variable]
+ static mykonosClgcConfig_t clgcConfig =
+                            ^~~~~~~~~~
+../src/myko.c:354:27: warning: 'dpdConfig' defined but not used [-Wunused-variable]
+ static mykonosDpdConfig_t dpdConfig =
+                           ^~~~~~~~~
+'Finished building: ../src/myko.c'
+' '
+'Building file: ../src/myko_ad9528init.c'
+'Invoking: MicroBlaze gcc compiler'
+mb-gcc -Wall -O0 -g3 -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\ad9371_22222\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/myko_ad9528init.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/myko_ad9528init.d" -MT"src/myko_ad9528init.o" -o "src/myko_ad9528init.o" "../src/myko_ad9528init.c"
+'Finished building: ../src/myko_ad9528init.c'
+' '
+'Building target: hw.elf'
+'Invoking: MicroBlaze gcc linker'
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../hw_bsp/sys_mb/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -Wl,--gc-sections -o "hw.elf"  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.o  ./src/mykonos/mykonos.o ./src/mykonos/mykonosMmap.o ./src/mykonos/mykonos_gpio.o ./src/mykonos/mykonos_user.o  ./src/ad9528/ad9528.o  ./src/adc_core.o ./src/clkgen_core.o ./src/common.o ./src/dac_core.o ./src/headless.o ./src/jesd_core.o ./src/myko.o ./src/myko_ad9528init.o ./src/platform_drivers.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: hw.elf'
+' '
+'Invoking: MicroBlaze Print Size'
+mb-size hw.elf  |tee "hw.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 259814	 101960	   3218	 364992	  591c0	hw.elf
+'Finished building: hw.elf.size'
+' '
+19:08:41 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+19:08:45 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+19:10:31 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+19:10:33 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+19:33:59 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+19:34:01 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+19:38:56 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+19:38:58 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+14:12:49 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+14:12:56 **** Incremental Build of configuration Debug for project hw ****
+make all 
+Building file: ../src/jesd_core.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/jesd_core.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/jesd_core.d" -MT"src/jesd_core.o" -o "src/jesd_core.o" "../src/jesd_core.c"
+Finished building: ../src/jesd_core.c
+ 
+Building target: hw.elf
+Invoking: MicroBlaze gcc linker
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../hw_bsp/sys_mb/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -Wl,--gc-sections -o "hw.elf"  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.o  ./src/mykonos/mykonos.o ./src/mykonos/mykonosMmap.o ./src/mykonos/mykonos_gpio.o ./src/mykonos/mykonos_user.o  ./src/ad9528/ad9528.o  ./src/adc_core.o ./src/clkgen_core.o ./src/common.o ./src/dac_core.o ./src/headless.o ./src/jesd_core.o ./src/myko.o ./src/myko_ad9528init.o ./src/platform_drivers.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: hw.elf
+ 
+Invoking: MicroBlaze Print Size
+mb-size hw.elf  |tee "hw.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 259814	 101960	   3218	 364992	  591c0	hw.elf
+Finished building: hw.elf.size
+ 
+14:14:52 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+14:14:54 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+14:15:12 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+14:15:14 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+14:16:18 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+14:16:20 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+14:17:20 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+14:17:22 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+14:18:25 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+14:18:27 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+14:46:22 **** Auto Build of configuration Debug for project hw ****
+make all 
+Building file: ../src/headless.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/headless.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/headless.d" -MT"src/headless.o" -o "src/headless.o" "../src/headless.c"
+Finished building: ../src/headless.c
+ 
+Building target: hw.elf
+Invoking: MicroBlaze gcc linker
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../hw_bsp/sys_mb/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -Wl,--gc-sections -o "hw.elf"  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.o  ./src/mykonos/mykonos.o ./src/mykonos/mykonosMmap.o ./src/mykonos/mykonos_gpio.o ./src/mykonos/mykonos_user.o  ./src/ad9528/ad9528.o  ./src/adc_core.o ./src/clkgen_core.o ./src/common.o ./src/dac_core.o ./src/headless.o ./src/jesd_core.o ./src/myko.o ./src/myko_ad9528init.o ./src/platform_drivers.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: hw.elf
+ 
+Invoking: MicroBlaze Print Size
+mb-size hw.elf  |tee "hw.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 255018	 101960	   3222	 360200	  57f08	hw.elf
+Finished building: hw.elf.size
+ 
+14:48:21 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+14:48:23 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+14:51:24 **** Auto Build of configuration Debug for project hw ****
+make all 
+Building file: ../src/headless.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/headless.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/headless.d" -MT"src/headless.o" -o "src/headless.o" "../src/headless.c"
+Finished building: ../src/headless.c
+ 
+Building target: hw.elf
+Invoking: MicroBlaze gcc linker
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../hw_bsp/sys_mb/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -Wl,--gc-sections -o "hw.elf"  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.o  ./src/mykonos/mykonos.o ./src/mykonos/mykonosMmap.o ./src/mykonos/mykonos_gpio.o ./src/mykonos/mykonos_user.o  ./src/ad9528/ad9528.o  ./src/adc_core.o ./src/clkgen_core.o ./src/common.o ./src/dac_core.o ./src/headless.o ./src/jesd_core.o ./src/myko.o ./src/myko_ad9528init.o ./src/platform_drivers.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: hw.elf
+ 
+Invoking: MicroBlaze Print Size
+mb-size hw.elf  |tee "hw.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 259814	 101960	   3218	 364992	  591c0	hw.elf
+Finished building: hw.elf.size
+ 
+14:51:30 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+14:51:32 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+14:52:24 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+14:52:26 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+15:21:48 **** Auto Build of configuration Debug for project hw ****
+make all 
+Building file: ../src/headless.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/headless.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/headless.d" -MT"src/headless.o" -o "src/headless.o" "../src/headless.c"
+Finished building: ../src/headless.c
+ 
+Building target: hw.elf
+Invoking: MicroBlaze gcc linker
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../hw_bsp/sys_mb/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -Wl,--gc-sections -o "hw.elf"  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.o  ./src/mykonos/mykonos.o ./src/mykonos/mykonosMmap.o ./src/mykonos/mykonos_gpio.o ./src/mykonos/mykonos_user.o  ./src/ad9528/ad9528.o  ./src/adc_core.o ./src/clkgen_core.o ./src/common.o ./src/dac_core.o ./src/headless.o ./src/jesd_core.o ./src/myko.o ./src/myko_ad9528init.o ./src/platform_drivers.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: hw.elf
+ 
+Invoking: MicroBlaze Print Size
+mb-size hw.elf  |tee "hw.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 259834	 101960	   3222	 365016	  591d8	hw.elf
+Finished building: hw.elf.size
+ 
+15:44:14 **** Auto Build of configuration Debug for project hw ****
+make all 
+Building file: ../src/headless.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/headless.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/headless.d" -MT"src/headless.o" -o "src/headless.o" "../src/headless.c"
+Finished building: ../src/headless.c
+ 
+Building target: hw.elf
+Invoking: MicroBlaze gcc linker
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../hw_bsp/sys_mb/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -Wl,--gc-sections -o "hw.elf"  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.o  ./src/mykonos/mykonos.o ./src/mykonos/mykonosMmap.o ./src/mykonos/mykonos_gpio.o ./src/mykonos/mykonos_user.o  ./src/ad9528/ad9528.o  ./src/adc_core.o ./src/clkgen_core.o ./src/common.o ./src/dac_core.o ./src/headless.o ./src/jesd_core.o ./src/myko.o ./src/myko_ad9528init.o ./src/platform_drivers.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: hw.elf
+ 
+Invoking: MicroBlaze Print Size
+mb-size hw.elf  |tee "hw.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 259834	 101960	   3222	 365016	  591d8	hw.elf
+Finished building: hw.elf.size
+ 
+15:44:39 **** Auto Build of configuration Debug for project hw ****
+make all 
+Building file: ../src/headless.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/headless.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/headless.d" -MT"src/headless.o" -o "src/headless.o" "../src/headless.c"
+../src/headless.c: In function 'main':
+../src/headless.c:577:1: error: unterminated comment
+ /* dac_write_custom_data(&ad9371_tx_core_init,
+ ^
+../src/headless.c:575:2: error: expected declaration or statement at end of input
+  }
+  ^
+../src/headless.c:562:3: error: label 'error' used but not defined
+   goto error;
+   ^~~~
+../src/headless.c:133:16: warning: variable 'errorString' set but not used [-Wunused-but-set-variable]
+  const char   *errorString;
+                ^~~~~~~~~~~
+make: *** [src/headless.o] ´íÎó 1
+15:44:44 **** Auto Build of configuration Debug for project hw ****
+make all 
+Building file: ../src/headless.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/headless.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/headless.d" -MT"src/headless.o" -o "src/headless.o" "../src/headless.c"
+Finished building: ../src/headless.c
+ 
+Building target: hw.elf
+Invoking: MicroBlaze gcc linker
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../hw_bsp/sys_mb/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -Wl,--gc-sections -o "hw.elf"  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.o  ./src/mykonos/mykonos.o ./src/mykonos/mykonosMmap.o ./src/mykonos/mykonos_gpio.o ./src/mykonos/mykonos_user.o  ./src/ad9528/ad9528.o  ./src/adc_core.o ./src/clkgen_core.o ./src/common.o ./src/dac_core.o ./src/headless.o ./src/jesd_core.o ./src/myko.o ./src/myko_ad9528init.o ./src/platform_drivers.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: hw.elf
+ 
+Invoking: MicroBlaze Print Size
+mb-size hw.elf  |tee "hw.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 255018	 101960	   3222	 360200	  57f08	hw.elf
+Finished building: hw.elf.size
+ 
+15:50:59 **** Auto Build of configuration Debug for project hw ****
+make all 
+Building file: ../src/headless.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/headless.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/headless.d" -MT"src/headless.o" -o "src/headless.o" "../src/headless.c"
+Finished building: ../src/headless.c
+ 
+Building target: hw.elf
+Invoking: MicroBlaze gcc linker
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../hw_bsp/sys_mb/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -Wl,--gc-sections -o "hw.elf"  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.o  ./src/mykonos/mykonos.o ./src/mykonos/mykonosMmap.o ./src/mykonos/mykonos_gpio.o ./src/mykonos/mykonos_user.o  ./src/ad9528/ad9528.o  ./src/adc_core.o ./src/clkgen_core.o ./src/common.o ./src/dac_core.o ./src/headless.o ./src/jesd_core.o ./src/myko.o ./src/myko_ad9528init.o ./src/platform_drivers.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: hw.elf
+ 
+Invoking: MicroBlaze Print Size
+mb-size hw.elf  |tee "hw.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 255018	 101960	   3222	 360200	  57f08	hw.elf
+Finished building: hw.elf.size
+ 
+15:55:09 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+15:55:11 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+15:56:56 **** Incremental Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+15:56:58 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+10:12:48 **** Auto Build of configuration Debug for project ddr ****
+make all 
+make: Nothing to be done for `all'.
+10:15:18 **** Build of project ddr3_bsp ****
+make -k all 
+"Running Make include in sys_mb/libsrc/axidma_v9_5/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/axidma_v9_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/axiethernet_v5_6/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/axiethernet_v5_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/bram_v4_2/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/bram_v4_2/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/cpu_v2_6/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/cpu_v2_6/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/gpio_v4_3/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/gpio_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/iic_v3_4/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/iic_v3_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/intc_v3_7/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/intc_v3_7/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/spi_v4_3/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/spi_v4_3/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/standalone_v6_5/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/standalone_v6_5/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/tmrctr_v4_4/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/tmrctr_v4_4/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make include in sys_mb/libsrc/uartlite_v3_2/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/uartlite_v3_2/src -s include  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Running Make libs in sys_mb/libsrc/axidma_v9_5/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/axidma_v9_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling axidma"
+mb-ar: creating ../../../lib/libxil.a
+"Running Make libs in sys_mb/libsrc/axiethernet_v5_6/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/axiethernet_v5_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling axiethernet"
+"Running Make libs in sys_mb/libsrc/bram_v4_2/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/bram_v4_2/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling bram"
+"Running Make libs in sys_mb/libsrc/cpu_v2_6/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/cpu_v2_6/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling cpu"
+"Running Make libs in sys_mb/libsrc/gpio_v4_3/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/gpio_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling gpio"
+"Running Make libs in sys_mb/libsrc/iic_v3_4/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/iic_v3_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling iic"
+"Running Make libs in sys_mb/libsrc/intc_v3_7/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/intc_v3_7/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling intc"
+"Running Make libs in sys_mb/libsrc/spi_v4_3/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/spi_v4_3/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling spi"
+"Running Make libs in sys_mb/libsrc/standalone_v6_5/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/standalone_v6_5/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling standalone";
+"Running Make libs in sys_mb/libsrc/tmrctr_v4_4/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/tmrctr_v4_4/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling tmrctr"
+"Running Make libs in sys_mb/libsrc/uartlite_v3_2/src"
+D:/StudySoftware/vivado2017.4/install/SDK/2017.4/gnuwin/bin/make -C sys_mb/libsrc/uartlite_v3_2/src -s libs  "SHELL=CMD" "COMPILER=mb-gcc" "ARCHIVER=mb-ar" "COMPILER_FLAGS= -O2 -c -mcpu=v10.0 -mlittle-endian -mno-xl-soft-div -mno-xl-soft-mul -mxl-barrel-shift -mxl-multiply-high -mxl-pattern-compare" "EXTRA_COMPILER_FLAGS=-ffunction-sections -fdata-sections -Wall -Wextra"
+"Compiling uartlite"
+'Finished building libraries'
+10:16:38 **** Build of configuration Debug for project ddr3 ****
+make all 
+Building file: ../src/memory_config_g.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/memory_config_g.o" -I../../ddr3_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/memory_config_g.d" -MT"src/memory_config_g.o" -o "src/memory_config_g.o" "../src/memory_config_g.c"
+Finished building: ../src/memory_config_g.c
+ 
+Building file: ../src/memorytest.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/memorytest.o" -I../../ddr3_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/memorytest.d" -MT"src/memorytest.o" -o "src/memorytest.o" "../src/memorytest.c"
+Finished building: ../src/memorytest.c
+ 
+Building file: ../src/platform.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/platform.o" -I../../ddr3_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/platform.d" -MT"src/platform.o" -o "src/platform.o" "../src/platform.c"
+Finished building: ../src/platform.c
+ 
+Building target: ddr3.elf
+Invoking: MicroBlaze gcc linker
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../ddr3_bsp/sys_mb/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -Wl,--gc-sections -o "ddr3.elf"  ./src/memory_config_g.o ./src/memorytest.o ./src/platform.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: ddr3.elf
+ 
+Invoking: MicroBlaze Print Size
+mb-size ddr3.elf  |tee "ddr3.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+   8318	    524	   1070	   9912	   26b8	ddr3.elf
+Finished building: ddr3.elf.size
+ 
+10:17:48 **** Incremental Build of configuration Debug for project ddr3 ****
+make all 
+make: Nothing to be done for `all'.
+10:17:50 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+10:19:45 **** Incremental Build of configuration Debug for project ddr3 ****
+make all 
+make: Nothing to be done for `all'.
+10:19:47 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+10:20:34 **** Incremental Build of configuration Debug for project ddr3 ****
+make all 
+make: Nothing to be done for `all'.
+10:20:36 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+10:20:56 **** Incremental Build of configuration Debug for project ddr3 ****
+make all 
+make: Nothing to be done for `all'.
+10:20:58 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+10:23:05 **** Incremental Build of configuration Debug for project ddr3 ****
+make all 
+make: Nothing to be done for `all'.
+10:23:07 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+10:34:38 **** Incremental Build of configuration Debug for project ddr3 ****
+make all 
+make: Nothing to be done for `all'.
+10:34:40 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+10:32:27 **** Incremental Build of configuration Debug for project ddr3 ****
+make all 
+make: Nothing to be done for `all'.
+10:32:51 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+14:54:27 **** Incremental Build of configuration Debug for project ddr3 ****
+make all 
+make: Nothing to be done for `all'.
+14:54:31 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+15:00:11 **** Auto Build of configuration Debug for project hw ****
+make all 
+Building file: ../src/headless.c
+Invoking: MicroBlaze gcc compiler
+mb-gcc -Wall -O0 -g3 -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\ad9528" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos" -I"E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.sdk\hw\src\mykonos\mykonos_debug" -c -fmessage-length=0 -MT"src/headless.o" -I../../hw_bsp/sys_mb/include -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -ffunction-sections -fdata-sections -MMD -MP -MF"src/headless.d" -MT"src/headless.o" -o "src/headless.o" "../src/headless.c"
+Finished building: ../src/headless.c
+ 
+Building target: hw.elf
+Invoking: MicroBlaze gcc linker
+mb-gcc -Wl,-T -Wl,../src/lscript.ld -L../../hw_bsp/sys_mb/lib -mlittle-endian -mxl-barrel-shift -mxl-pattern-compare -mno-xl-soft-div -mcpu=v10.0 -mno-xl-soft-mul -mxl-multiply-high -Wl,--no-relax -Wl,--gc-sections -o "hw.elf"  ./src/mykonos/mykonos_debug/mykonos_dbgjesd.o  ./src/mykonos/mykonos.o ./src/mykonos/mykonosMmap.o ./src/mykonos/mykonos_gpio.o ./src/mykonos/mykonos_user.o  ./src/ad9528/ad9528.o  ./src/adc_core.o ./src/clkgen_core.o ./src/common.o ./src/dac_core.o ./src/headless.o ./src/jesd_core.o ./src/myko.o ./src/myko_ad9528init.o ./src/platform_drivers.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+Finished building target: hw.elf
+ 
+Invoking: MicroBlaze Print Size
+mb-size hw.elf  |tee "hw.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+ 255018	 101960	   3222	 360200	  57f08	hw.elf
+Finished building: hw.elf.size
+ 
+21:27:32 **** Incremental Build of configuration Debug for project ddr3 ****
+make all 
+make: Nothing to be done for `all'.
+21:27:43 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+21:27:51 **** Incremental Build of configuration Debug for project ddr3 ****
+make all 
+make: Nothing to be done for `all'.
+21:27:53 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.
+21:28:57 **** Incremental Build of configuration Debug for project ddr3 ****
+make all 
+make: Nothing to be done for `all'.
+21:28:59 **** Incremental Build of configuration Debug for project hw ****
+make all 
+make: Nothing to be done for `all'.

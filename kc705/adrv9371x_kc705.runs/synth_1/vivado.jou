@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4.1 (64-bit)
+# SW Build 2117270 on Tue Jan 30 15:32:00 MST 2018
+# IP Build 2095745 on Tue Jan 30 17:13:15 MST 2018
+# Start of session at: Tue Oct 23 20:29:51 2018
+# Process ID: 9956
+# Current directory: E:/vivado2017.4/KC705/AD9371/hdl-hdl_2018_r1/projects/adrv9371x/kc705/adrv9371x_kc705.runs/synth_1
+# Command line: vivado.exe -log system_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source system_top.tcl
+# Log file: E:/vivado2017.4/KC705/AD9371/hdl-hdl_2018_r1/projects/adrv9371x/kc705/adrv9371x_kc705.runs/synth_1/system_top.vds
+# Journal file: E:/vivado2017.4/KC705/AD9371/hdl-hdl_2018_r1/projects/adrv9371x/kc705/adrv9371x_kc705.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source system_top.tcl -notrace

@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spirit:design xmlns:xilinx="http://www.xilinx.com" xmlns:spirit="http://www.spiritconsortium.org/XMLSchema/SPIRIT/1685-2009" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <spirit:vendor>xilinx.com</spirit:vendor>
+  <spirit:library>xci</spirit:library>
+  <spirit:name>unknown</spirit:name>
+  <spirit:version>1.0</spirit:version>
+  <spirit:componentInstances>
+    <spirit:componentInstance>
+      <spirit:instanceName>system_util_ad9371_xcvr_0</spirit:instanceName>
+      <spirit:componentRef spirit:vendor="analog.com" spirit:library="user" spirit:name="util_adxcvr" spirit:version="1.0"/>
+      <spirit:configurableElementValues>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_0.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_0.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_0.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_0.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_1.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_1.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_1.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_1.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_10.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_10.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_10.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_10.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_11.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_11.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_11.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_11.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_12.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_12.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_12.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_12.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_13.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_13.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_13.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_13.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_14.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_14.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_14.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_14.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_15.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_15.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_15.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_15.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_2.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_2.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_2.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_2.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_3.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_3.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_3.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_3.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_4.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_4.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_4.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_4.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_5.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_5.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_5.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_5.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_6.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_6.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_6.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_6.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_7.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_7.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_7.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_7.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_8.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_8.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_8.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_8.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_9.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_9.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_9.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.CPLL_REF_CLK_9.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_0.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_0.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_0.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_0.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_0.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_12.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_12.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_12.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_12.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_12.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_4.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_4.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_4.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_4.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_4.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_8.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_8.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_8.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_8.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.QPLL_REF_CLK_8.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_0.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_0.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_0.CLK_DOMAIN">system_axi_ad9371_rx_clkgen_0_clk_0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_0.FREQ_HZ">100000000.0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_0.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_1.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_1.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_1.CLK_DOMAIN">system_axi_ad9371_rx_clkgen_0_clk_0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_1.FREQ_HZ">100000000.0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_1.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_10.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_10.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_10.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_10.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_10.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_11.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_11.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_11.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_11.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_11.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_12.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_12.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_12.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_12.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_12.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_13.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_13.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_13.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_13.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_13.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_14.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_14.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_14.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_14.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_14.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_15.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_15.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_15.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_15.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_15.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_2.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_2.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_2.CLK_DOMAIN">system_axi_ad9371_rx_os_clkgen_0_clk_0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_2.FREQ_HZ">100000000.0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_2.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_3.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_3.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_3.CLK_DOMAIN">system_axi_ad9371_rx_os_clkgen_0_clk_0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_3.FREQ_HZ">100000000.0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_3.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_4.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_4.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_4.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_4.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_4.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_5.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_5.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_5.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_5.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_5.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_6.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_6.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_6.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_6.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_6.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_7.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_7.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_7.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_7.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_7.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_8.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_8.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_8.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_8.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_8.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_9.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_9.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_9.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_9.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_CLK_9.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_0.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_0.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_0.CLK_DOMAIN">system_util_ad9371_xcvr_0_rx_out_clk_0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_0.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_0.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_1.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_1.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_1.CLK_DOMAIN">system_util_ad9371_xcvr_0_rx_out_clk_1</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_1.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_1.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_10.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_10.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_10.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_10.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_10.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_11.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_11.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_11.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_11.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_11.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_12.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_12.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_12.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_12.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_12.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_13.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_13.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_13.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_13.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_13.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_14.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_14.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_14.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_14.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_14.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_15.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_15.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_15.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_15.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_15.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_2.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_2.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_2.CLK_DOMAIN">system_util_ad9371_xcvr_0_rx_out_clk_2</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_2.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_2.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_3.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_3.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_3.CLK_DOMAIN">system_util_ad9371_xcvr_0_rx_out_clk_3</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_3.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_3.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_4.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_4.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_4.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_4.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_4.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_5.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_5.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_5.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_5.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_5.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_6.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_6.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_6.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_6.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_6.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_7.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_7.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_7.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_7.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_7.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_8.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_8.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_8.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_8.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_8.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_9.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_9.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_9.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_9.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_9.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_0.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_0.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_0.CLK_DOMAIN">system_axi_ad9371_tx_clkgen_0_clk_0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_0.FREQ_HZ">100000000.0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_0.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_1.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_1.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_1.CLK_DOMAIN">system_axi_ad9371_tx_clkgen_0_clk_0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_1.FREQ_HZ">100000000.0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_1.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_10.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_10.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_10.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_10.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_10.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_11.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_11.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_11.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_11.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_11.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_12.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_12.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_12.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_12.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_12.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_13.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_13.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_13.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_13.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_13.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_14.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_14.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_14.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_14.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_14.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_15.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_15.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_15.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_15.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_15.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_2.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_2.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_2.CLK_DOMAIN">system_axi_ad9371_tx_clkgen_0_clk_0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_2.FREQ_HZ">100000000.0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_2.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_3.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_3.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_3.CLK_DOMAIN">system_axi_ad9371_tx_clkgen_0_clk_0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_3.FREQ_HZ">100000000.0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_3.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_4.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_4.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_4.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_4.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_4.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_5.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_5.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_5.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_5.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_5.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_6.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_6.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_6.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_6.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_6.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_7.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_7.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_7.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_7.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_7.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_8.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_8.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_8.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_8.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_8.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_9.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_9.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_9.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_9.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_CLK_9.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_0.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_0.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_0.CLK_DOMAIN">system_util_ad9371_xcvr_0_tx_out_clk_0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_0.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_0.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_1.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_1.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_1.CLK_DOMAIN">system_util_ad9371_xcvr_0_tx_out_clk_1</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_1.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_1.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_10.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_10.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_10.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_10.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_10.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_11.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_11.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_11.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_11.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_11.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_12.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_12.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_12.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_12.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_12.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_13.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_13.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_13.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_13.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_13.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_14.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_14.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_14.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_14.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_14.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_15.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_15.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_15.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_15.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_15.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_2.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_2.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_2.CLK_DOMAIN">system_util_ad9371_xcvr_0_tx_out_clk_2</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_2.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_2.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_3.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_3.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_3.CLK_DOMAIN">system_util_ad9371_xcvr_0_tx_out_clk_3</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_3.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_3.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_4.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_4.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_4.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_4.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_4.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_5.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_5.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_5.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_5.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_5.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_6.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_6.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_6.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_6.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_6.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_7.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_7.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_7.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_7.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_7.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_8.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_8.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_8.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_8.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_8.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_9.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_9.ASSOCIATED_RESET"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_9.CLK_DOMAIN"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_9.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_9.PHASE">0.000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CLK.ASSOCIATED_BUSIF"/>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CLK.CLK_DOMAIN">system_mig_7series_0_1_ui_clk</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CLK.FREQ_HZ">100000000</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CLK.PHASE">0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_0.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_1.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_10.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_11.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_12.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_13.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_14.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_15.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_2.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_3.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_4.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_5.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_6.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_7.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_8.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_CPLL_RST_9.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_QPLL_RST_0.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_QPLL_RST_12.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_QPLL_RST_4.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_QPLL_RST_8.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_0.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_1.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_10.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_11.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_12.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_13.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_14.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_15.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_2.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_3.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_4.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_5.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_6.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_7.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_8.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_RX_RST_9.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_0.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_1.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_10.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_11.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_12.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_13.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_14.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_15.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_2.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_3.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_4.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_5.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_6.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_7.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_8.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="BUSIFPARAM_VALUE.UP_TX_RST_9.POLARITY">ACTIVE_LOW</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.CPLL_FBDIV">4</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.CPLL_FBDIV_4_5">5</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.QPLL_CFG">&quot;000011010000000000110000001&quot;</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.QPLL_FBDIV">&quot;0001010000&quot;</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.QPLL_FBDIV_RATIO">1</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.QPLL_REFCLK_DIV">1</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.RX_CDR_CFG">0x03000023ff10400020</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.RX_CLK25_DIV">5</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.RX_DFE_LPM_CFG">0x0104</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.RX_NUM_OF_LANES">4</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.RX_OUT_DIV">1</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.RX_PMA_CFG">0x00018480</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.TX_CLK25_DIV">5</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.TX_NUM_OF_LANES">4</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.TX_OUT_DIV">2</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="MODELPARAM_VALUE.XCVR_TYPE">0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.CPLL_FBDIV">4</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.CPLL_FBDIV_4_5">5</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.Component_Name">system_util_ad9371_xcvr_0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.QPLL_CFG">&quot;000011010000000000110000001&quot;</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.QPLL_FBDIV">&quot;0001010000&quot;</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.QPLL_FBDIV_RATIO">1</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.QPLL_REFCLK_DIV">1</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.RX_CDR_CFG">0x03000023ff10400020</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.RX_CLK25_DIV">5</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.RX_DFE_LPM_CFG">0x0104</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.RX_NUM_OF_LANES">4</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.RX_OUT_DIV">1</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.RX_PMA_CFG">0x00018480</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.TX_CLK25_DIV">5</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.TX_NUM_OF_LANES">4</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.TX_OUT_DIV">2</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PARAM_VALUE.XCVR_TYPE">0</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PROJECT_PARAM.ARCHITECTURE">kintex7</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PROJECT_PARAM.BOARD">xilinx.com:kc705:part0:1.5</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PROJECT_PARAM.DEVICE">xc7k325t</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PROJECT_PARAM.PACKAGE">ffg900</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PROJECT_PARAM.PREFHDL">VERILOG</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PROJECT_PARAM.SILICON_REVISION"/>
+        <spirit:configurableElementValue spirit:referenceId="PROJECT_PARAM.SIMULATOR_LANGUAGE">MIXED</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PROJECT_PARAM.SPEEDGRADE">-2</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PROJECT_PARAM.TEMPERATURE_GRADE"/>
+        <spirit:configurableElementValue spirit:referenceId="PROJECT_PARAM.USE_RDI_CUSTOMIZATION">TRUE</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="PROJECT_PARAM.USE_RDI_GENERATION">TRUE</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="RUNTIME_PARAM.IPCONTEXT">IP_Integrator</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="RUNTIME_PARAM.IPREVISION">1</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="RUNTIME_PARAM.MANAGED">TRUE</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="RUNTIME_PARAM.OUTPUTDIR">.</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="RUNTIME_PARAM.SELECTEDSIMMODEL"/>
+        <spirit:configurableElementValue spirit:referenceId="RUNTIME_PARAM.SHAREDDIR">../../ipshared</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="RUNTIME_PARAM.SWVERSION">2017.4.1</spirit:configurableElementValue>
+        <spirit:configurableElementValue spirit:referenceId="RUNTIME_PARAM.SYNTHESISFLOW">OUT_OF_CONTEXT</spirit:configurableElementValue>
+      </spirit:configurableElementValues>
+      <spirit:vendorExtensions>
+        <xilinx:componentInstanceExtensions>
+          <xilinx:configElementInfos>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.RX_CLK_0.CLK_DOMAIN" xilinx:valueSource="default_prop" xilinx:valuePermission="bd"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.RX_CLK_0.FREQ_HZ" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.RX_CLK_1.CLK_DOMAIN" xilinx:valueSource="default_prop" xilinx:valuePermission="bd"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.RX_CLK_1.FREQ_HZ" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.RX_CLK_2.CLK_DOMAIN" xilinx:valueSource="default_prop" xilinx:valuePermission="bd"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.RX_CLK_2.FREQ_HZ" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.RX_CLK_3.CLK_DOMAIN" xilinx:valueSource="default_prop" xilinx:valuePermission="bd"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.RX_CLK_3.FREQ_HZ" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_0.CLK_DOMAIN" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_1.CLK_DOMAIN" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_2.CLK_DOMAIN" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.RX_OUT_CLK_3.CLK_DOMAIN" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.TX_CLK_0.CLK_DOMAIN" xilinx:valueSource="default_prop" xilinx:valuePermission="bd"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.TX_CLK_0.FREQ_HZ" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.TX_CLK_1.CLK_DOMAIN" xilinx:valueSource="default_prop" xilinx:valuePermission="bd"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.TX_CLK_1.FREQ_HZ" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.TX_CLK_2.CLK_DOMAIN" xilinx:valueSource="default_prop" xilinx:valuePermission="bd"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.TX_CLK_2.FREQ_HZ" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.TX_CLK_3.CLK_DOMAIN" xilinx:valueSource="default_prop" xilinx:valuePermission="bd"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.TX_CLK_3.FREQ_HZ" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_0.CLK_DOMAIN" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_1.CLK_DOMAIN" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_2.CLK_DOMAIN" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.TX_OUT_CLK_3.CLK_DOMAIN" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.UP_CLK.CLK_DOMAIN" xilinx:valueSource="ip_propagated" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.UP_CLK.FREQ_HZ" xilinx:valueSource="user_prop" xilinx:valuePermission="bd_and_user"/>
+            <xilinx:configElementInfo xilinx:referenceId="BUSIFPARAM_VALUE.UP_CLK.PHASE" xilinx:valueSource="default_prop" xilinx:valuePermission="bd"/>
+            <xilinx:configElementInfo xilinx:referenceId="PARAM_VALUE.CPLL_FBDIV" xilinx:valueSource="user"/>
+            <xilinx:configElementInfo xilinx:referenceId="PARAM_VALUE.QPLL_FBDIV" xilinx:valueSource="user"/>
+            <xilinx:configElementInfo xilinx:referenceId="PARAM_VALUE.QPLL_REFCLK_DIV" xilinx:valueSource="user"/>
+            <xilinx:configElementInfo xilinx:referenceId="PARAM_VALUE.RX_CDR_CFG" xilinx:valueSource="user"/>
+            <xilinx:configElementInfo xilinx:referenceId="PARAM_VALUE.RX_CLK25_DIV" xilinx:valueSource="user"/>
+            <xilinx:configElementInfo xilinx:referenceId="PARAM_VALUE.RX_NUM_OF_LANES" xilinx:valueSource="user"/>
+            <xilinx:configElementInfo xilinx:referenceId="PARAM_VALUE.RX_PMA_CFG" xilinx:valueSource="user"/>
+            <xilinx:configElementInfo xilinx:referenceId="PARAM_VALUE.TX_CLK25_DIV" xilinx:valueSource="user"/>
+            <xilinx:configElementInfo xilinx:referenceId="PARAM_VALUE.TX_NUM_OF_LANES" xilinx:valueSource="user"/>
+            <xilinx:configElementInfo xilinx:referenceId="PARAM_VALUE.TX_OUT_DIV" xilinx:valueSource="user"/>
+            <xilinx:configElementInfo xilinx:referenceId="PARAM_VALUE.XCVR_TYPE" xilinx:valueSource="user"/>
+          </xilinx:configElementInfos>
+        </xilinx:componentInstanceExtensions>
+      </spirit:vendorExtensions>
+    </spirit:componentInstance>
+  </spirit:componentInstances>
+</spirit:design>

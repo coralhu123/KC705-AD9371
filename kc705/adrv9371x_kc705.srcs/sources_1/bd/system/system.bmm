@@ -1,0 +1,11 @@
+WORKFLOW_OPERATION simulation,dialog;
+
+DEFINE_MEMORY_TYPE blk_mem_gen_0_128K_6_MEM_DEVICE [0x00020000] 32;
+
+ADDRESS_MAP sys_mb MICROBLAZE-LE 100 sys_mb
+   ADDRESS_SPACE blk_mem_gen_0_128K_6_ADDR_SPACE blk_mem_gen_0_128K_6_MEM_DEVICE  [0x00000000:0x0001FFFF] sys_dlmb_cntlr
+     BUS_BLOCK
+      blk_mem_gen_0_128K_6_BUS_BLK [31:0] INPUT = "system_blk_mem_gen_0_0.mem";
+     END_BUS_BLOCK;
+   END_ADDRESS_SPACE;
+END_ADDRESS_MAP;

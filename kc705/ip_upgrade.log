@@ -1,0 +1,1044 @@
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_util_ad9371_xcvr_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_util_ad9371_xcvr_0 (analog.com:user:util_adxcvr:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_util_ad9371_tx_upack_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_util_ad9371_tx_upack_0 (analog.com:user:util_upack:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_util_ad9371_rx_os_cpack_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_util_ad9371_rx_os_cpack_0 (analog.com:user:util_cpack:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_util_ad9371_rx_cpack_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_util_ad9371_rx_cpack_0 (analog.com:user:util_cpack:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_tx_axi_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_tx_axi_0 (analog.com:user:axi_jesd204_tx:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_tx_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_tx_0 (analog.com:user:jesd204_tx:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_sys_rstgen_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_sys_rstgen_0 (xilinx.com:ip:proc_sys_reset:5.0 (Rev. 12)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_sys_mb_debug_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_sys_mb_debug_0 (xilinx.com:ip:mdm:3.2 (Rev. 12)) to Vivado generation flows.
+
+2. Upgrade messages
+-------------------
+
+WARNING: upgrade cannot add parameter C_DEBUG_INTERFACE with default value 0 : a parameter called C_DEBUG_INTERFACE already exists in mdm_v3_2
+Set parameter C_M_AXIS_ID_WIDTH to value 7 (source 'default')
+Set parameter C_S_AXI_ADDR_WIDTH to value 4 (source 'default')
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_sys_mb_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_sys_mb_0 (xilinx.com:ip:microblaze:10.0 (Rev. 5)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_sys_ilmb_cntlr_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_sys_ilmb_cntlr_0 (xilinx.com:ip:lmb_bram_if_cntlr:4.0 (Rev. 14)) to Vivado generation flows.
+
+2. Upgrade messages
+-------------------
+
+Set parameter C_MASK1 to value 0x0000000000800000 (source 'default')
+Set parameter C_MASK2 to value 0x0000000000800000 (source 'default')
+Set parameter C_MASK3 to value 0x0000000000800000 (source 'default')
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_sys_ilmb_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_sys_ilmb_0 (xilinx.com:ip:lmb_v10:3.0 (Rev. 9)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_sys_dma_rstgen_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_sys_dma_rstgen_0 (xilinx.com:ip:proc_sys_reset:5.0 (Rev. 12)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_sys_dlmb_cntlr_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_sys_dlmb_cntlr_0 (xilinx.com:ip:lmb_bram_if_cntlr:4.0 (Rev. 14)) to Vivado generation flows.
+
+2. Upgrade messages
+-------------------
+
+Set parameter C_MASK1 to value 0x0000000000800000 (source 'default')
+Set parameter C_MASK2 to value 0x0000000000800000 (source 'default')
+Set parameter C_MASK3 to value 0x0000000000800000 (source 'default')
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_sys_dlmb_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_sys_dlmb_0 (xilinx.com:ip:lmb_v10:3.0 (Rev. 9)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_sys_concat_intc_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_sys_concat_intc_0 (xilinx.com:ip:xlconcat:2.1 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_rx_axi_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_rx_axi_1 (analog.com:user:axi_jesd204_rx:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_rx_axi_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_rx_axi_0 (analog.com:user:axi_jesd204_rx:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_rx_1'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_rx_1 (analog.com:user:jesd204_rx:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_rx_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_rx_0 (analog.com:user:jesd204_rx:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_uart_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_uart_0 (xilinx.com:ip:axi_uartlite:2.0 (Rev. 19)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_timer_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_timer_0 (xilinx.com:ip:axi_timer:2.0 (Rev. 17)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_spi_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_spi_0 (xilinx.com:ip:axi_quad_spi:3.2 (Rev. 14)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_mem_interconnect_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_mem_interconnect_0 (xilinx.com:ip:axi_interconnect:2.1 (Rev. 16)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_intc_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_intc_0 (xilinx.com:ip:axi_intc:4.1 (Rev. 10)) to Vivado generation flows.
+
+2. Upgrade messages
+-------------------
+
+WARNING: upgrade cannot add parameter C_IRQ_CONNECTION with default value 0 : a parameter called C_IRQ_CONNECTION already exists in axi_intc_v4_1
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_iic_main_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_iic_main_0 (xilinx.com:ip:axi_iic:2.0 (Rev. 18)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_gpio_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_gpio_0 (xilinx.com:ip:axi_gpio:2.0 (Rev. 17)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ethernet_dma_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ethernet_dma_0 (xilinx.com:ip:axi_dma:7.1 (Rev. 16)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ethernet_0'
+
+1. Summary
+----------
+
+CAUTION (success, with warnings) in the conversion of system_axi_ethernet_0 (xilinx.com:ip:axi_ethernet:7.1 (Rev. 2)) to Vivado generation flows.
+
+After upgrade, an IP may have parameter and port differences compared to the original customization. Please review the parameters within the IP customization GUI to ensure proper functionality. Also, please review the updated IP instantiation template to ensure proper connectivity, and update your design if required.
+
+2. Connection Warnings
+----------------------
+
+Detected external port differences while upgrading 'system_axi_ethernet_0'. These changes may impact your design.
+
+
+-Upgrade has removed port 'clk312_out'
+
+-Upgrade has removed port 'idelay_rdy_out'
+
+-Upgrade has added port 'clk104_out'
+
+-Upgrade has added port 'clk208_out'
+
+
+3. Customization warnings
+-------------------------
+
+The normal upgrade process failed due to validation failures in the given configuration. Attempting partial upgrade to set as many user parameters as possible. Please check the parameters whose values were not applied.
+
+Unable to set the value 'sgmii_lvds' on parameter 'ETHERNET BOARD INTERFACE' due to the following failure - 
+Value 'sgmii_lvds' is out of the range for parameter 'ETHERNET BOARD INTERFACE(ETHERNET_BOARD_INTERFACE)' for BD Cell 'system_axi_ethernet_0' . Valid values are - Custom, mii, gmii, rgmii, sfp_sgmii, sgmii, sma_lvds, sma_sgmii, sfp, sma_sfp
+. Restoring to an old valid value of 'Custom'
+
+Unable to set the value 'sgmii_phyclk' on parameter 'DIFFCLK BOARD INTERFACE' due to the following failure - 
+Value 'sgmii_phyclk' is out of the range for parameter 'DIFFCLK BOARD INTERFACE(DIFFCLK_BOARD_INTERFACE)' for BD Cell 'system_axi_ethernet_0' . Valid values are - Custom, sgmii_mgt_clk, sma_mgt_clk
+. Restoring to an old valid value of 'Custom'
+
+
+4. Debug Commands
+-----------------
+
+  The following debug information can be passed to Vivado as Tcl commands,
+in order to validate or debug the output of the upgrade flow.
+  You may consult any warnings from within this upgrade, and alter or remove
+the configuration parameter(s) which caused the warning; then execute the Tcl
+commands, and use the IP Customization GUI to verify the IP configuration.
+
+create_ip -vlnv xilinx.com:ip:axi_ethernet:7.1 -user_name system_axi_ethernet_0
+set_property -dict "\
+  CONFIG.ClockSelection {Sync} \
+  CONFIG.Component_Name {system_axi_ethernet_0} \
+  CONFIG.DIFFCLK_BOARD_INTERFACE {sgmii_phyclk} \
+  CONFIG.ENABLE_AVB {false} \
+  CONFIG.ENABLE_LVDS {true} \
+  CONFIG.ETHERNET_BOARD_INTERFACE {sgmii_lvds} \
+  CONFIG.EnableAsyncSGMII {false} \
+  CONFIG.Enable_1588 {false} \
+  CONFIG.Enable_1588_1step {false} \
+  CONFIG.Enable_Pfc {false} \
+  CONFIG.Frame_Filter {true} \
+  CONFIG.GTinEx {false} \
+  CONFIG.Include_IO {true} \
+  CONFIG.InstantiateBitslice0 {false} \
+  CONFIG.MCAST_EXTEND {false} \
+  CONFIG.MDIO_BOARD_INTERFACE {mdio_mdc} \
+  CONFIG.Number_of_Table_Entries {4} \
+  CONFIG.PHYADDR {1} \
+  CONFIG.PHYRST_BOARD_INTERFACE {phy_reset_out} \
+  CONFIG.PHY_TYPE {SGMII} \
+  CONFIG.RXCSUM {Full} \
+  CONFIG.RXMEM {8k} \
+  CONFIG.RXVLAN_STRP {false} \
+  CONFIG.RXVLAN_TAG {false} \
+  CONFIG.RXVLAN_TRAN {false} \
+  CONFIG.SIMULATION_MODE {false} \
+  CONFIG.Statistics_Counters {true} \
+  CONFIG.Statistics_Reset {false} \
+  CONFIG.Statistics_Width {64bit} \
+  CONFIG.SupportLevel {1} \
+  CONFIG.TIMER_CLK_PERIOD {4000} \
+  CONFIG.TXCSUM {Full} \
+  CONFIG.TXMEM {8k} \
+  CONFIG.TXVLAN_STRP {false} \
+  CONFIG.TXVLAN_TAG {false} \
+  CONFIG.TXVLAN_TRAN {false} \
+  CONFIG.Timer_Format {0} \
+  CONFIG.TransceiverControl {false} \
+  CONFIG.USE_BOARD_FLOW {true} \
+  CONFIG.axiliteclkrate {100.0} \
+  CONFIG.axisclkrate {100.0} \
+  CONFIG.drpclkrate {50.0} \
+  CONFIG.gt_type {GTH} \
+  CONFIG.gtlocation {X0Y0} \
+  CONFIG.gtrefclkrate {125} \
+  CONFIG.gtrefclksrc {clk0} \
+  CONFIG.lvdsclkrate {625} \
+  CONFIG.processor_mode {true} \
+  CONFIG.rxlane0_placement {DIFF_PAIR_0} \
+  CONFIG.rxlane1_placement {DIFF_PAIR_1} \
+  CONFIG.rxnibblebitslice0used {false} \
+  CONFIG.speed_1_2p5 {1G} \
+  CONFIG.tx_in_upper_nibble {true} \
+  CONFIG.txlane0_placement {DIFF_PAIR_0} \
+  CONFIG.txlane1_placement {DIFF_PAIR_1} " [get_ips system_axi_ethernet_0]
+
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ddr_cntrl_rstgen_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ddr_cntrl_rstgen_0 (xilinx.com:ip:proc_sys_reset:5.0 (Rev. 12)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_cpu_interconnect_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_cpu_interconnect_0 (xilinx.com:ip:axi_interconnect:2.1 (Rev. 16)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ad9371_tx_xcvr_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ad9371_tx_xcvr_0 (analog.com:user:axi_adxcvr:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ad9371_tx_jesd_rstgen_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ad9371_tx_jesd_rstgen_0 (xilinx.com:ip:proc_sys_reset:5.0 (Rev. 12)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ad9371_tx_dma_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ad9371_tx_dma_0 (analog.com:user:axi_dmac:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ad9371_tx_clkgen_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ad9371_tx_clkgen_0 (analog.com:user:axi_clkgen:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ad9371_rx_xcvr_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ad9371_rx_xcvr_0 (analog.com:user:axi_adxcvr:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ad9371_rx_os_xcvr_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ad9371_rx_os_xcvr_0 (analog.com:user:axi_adxcvr:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ad9371_rx_os_jesd_rstgen_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ad9371_rx_os_jesd_rstgen_0 (xilinx.com:ip:proc_sys_reset:5.0 (Rev. 12)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ad9371_rx_os_dma_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ad9371_rx_os_dma_0 (analog.com:user:axi_dmac:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ad9371_rx_os_clkgen_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ad9371_rx_os_clkgen_0 (analog.com:user:axi_clkgen:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ad9371_rx_jesd_rstgen_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ad9371_rx_jesd_rstgen_0 (xilinx.com:ip:proc_sys_reset:5.0 (Rev. 12)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ad9371_rx_dma_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ad9371_rx_dma_0 (analog.com:user:axi_dmac:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ad9371_rx_clkgen_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ad9371_rx_clkgen_0 (analog.com:user:axi_clkgen:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ad9371_dacfifo_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ad9371_dacfifo_0 (analog.com:user:util_dacfifo:1.0 (Rev. 1)) to Vivado generation flows.
+
+
+
+
+
+
+Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+--------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2017.4.1 (win64) Build 2117270 Tue Jan 30 15:32:00 MST 2018
+| Date         : Thu Sep 20 21:12:52 2018
+| Host         : hu-PC running 64-bit Service Pack 1  (build 7601)
+| Command      : upgrade_ip
+| Device       : xc7k325tffg900-2
+--------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'system_axi_ad9371_core_0'
+
+1. Summary
+----------
+
+SUCCESS in the conversion of system_axi_ad9371_core_0 (analog.com:user:axi_ad9371:1.0 (Rev. 1)) to Vivado generation flows.
+

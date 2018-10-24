@@ -1,0 +1,40 @@
+{
+   ExpandedHierarchyInLayout: "",
+   guistr: "# # String gsaved with Nlview 6.6.11  2017-06-12 bk=1.3860 VDI=40 GEI=35 GUI=JA:1.6
+#  -string -flagsOSRD
+preplace port s_axi_aclk -pg 1 -y 120 -defaultsOSRD
+preplace port sysref -pg 1 -y 250 -defaultsOSRD
+preplace port tx_data -pg 1 -y 230 -defaultsOSRD
+preplace port sync -pg 1 -y 270 -defaultsOSRD
+preplace port s_axi -pg 1 -y 40 -defaultsOSRD
+preplace port device_clk -pg 1 -y 160 -defaultsOSRD
+preplace port s_axi_aresetn -pg 1 -y 140 -defaultsOSRD
+preplace port tx_phy0 -pg 1 -y 130 -defaultsOSRD
+preplace port irq -pg 1 -y 80 -defaultsOSRD
+preplace port tx_phy1 -pg 1 -y 150 -defaultsOSRD
+preplace port tx_phy2 -pg 1 -y 170 -defaultsOSRD
+preplace port tx_phy3 -pg 1 -y 190 -defaultsOSRD
+preplace inst tx -pg 1 -lvl 2 -y 210 -defaultsOSRD
+preplace inst tx_axi -pg 1 -lvl 1 -y 110 -defaultsOSRD
+preplace netloc s_axi_aclk_1 1 0 1 NJ
+preplace netloc s_axi_1 1 0 1 NJ
+preplace netloc tx_tx_ilas_config 1 0 3 30 340 NJ 340 610
+preplace netloc s_axi_aresetn_1 1 0 1 NJ
+preplace netloc tx_axi_core_reset 1 1 1 320
+preplace netloc tx_tx_event 1 0 3 40 350 NJ 350 600
+preplace netloc tx_axi_tx_ctrl 1 1 1 330
+preplace netloc sysref_1 1 0 2 NJ 250 NJ
+preplace netloc device_clk_1 1 0 2 20 240 330J
+preplace netloc tx_axi_tx_cfg 1 1 1 310
+preplace netloc tx_tx_phy0 1 2 1 NJ
+preplace netloc tx_data_1 1 0 2 NJ 230 300J
+preplace netloc tx_tx_status 1 0 3 50 360 NJ 360 590
+preplace netloc tx_tx_phy1 1 2 1 NJ
+preplace netloc sync_1 1 0 2 NJ 270 NJ
+preplace netloc tx_tx_phy2 1 2 1 NJ
+preplace netloc tx_tx_phy3 1 2 1 NJ
+preplace netloc tx_axi_irq 1 1 2 320J 80 NJ
+levelinfo -pg 1 0 180 470 640 -top -10 -bot 370
+",
+}
+

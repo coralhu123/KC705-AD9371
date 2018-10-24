@@ -1,0 +1,23 @@
+
+****** Vivado(TM) HLS - High-Level Synthesis from C, C++ and SystemC v2017.4.1 (64-bit)
+  **** SW Build 2117270 on Tue Jan 30 15:32:00 MST 2018
+  **** IP Build 2095745 on Tue Jan 30 17:13:15 MST 2018
+    ** Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+
+source D:/vivado2017.4/install/Vivado/2017.4/scripts/vivado_hls/hls.tcl -notrace
+INFO: [HLS 200-10] Running 'D:/vivado2017.4/install/Vivado/2017.4/bin/unwrapped/win64.o/vivado_hls.exe'
+INFO: [HLS 200-10] For user 'hu' on host 'hu-pc' (Windows NT_amd64 version 6.1) on Thu Sep 20 19:54:16 +0800 2018
+INFO: [HLS 200-10] In directory 'E:/AD9371/hdl-hdl_2018_r1/projects/adrv9371x/kcu105'
+E:AD9371hdl-hdl_2018_r1projectsdrv9371xkcu105drv9371x_kcu105.xpr can't be opened.
+couldn't read file "E:AD9371hdl-hdl_2018_r1projectsdrv9371xkcu105drv9371x_kcu105.xpr": no such file or directory
+    while executing
+"source E:AD9371hdl-hdl_2018_r1projectsdrv9371xkcu105drv9371x_kcu105.xpr"
+    invoked from within
+"hls::main E:\AD9371\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.xpr"
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel 1 hls::main {*}$args"
+    (procedure "hls_proc" line 5)
+    invoked from within
+"hls_proc $argv"
+INFO: [Common 17-206] Exiting vivado_hls at Thu Sep 20 19:54:17 2018...

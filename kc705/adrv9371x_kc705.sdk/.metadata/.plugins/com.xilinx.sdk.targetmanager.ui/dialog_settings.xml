@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="bootloop" key="ddr-sys_mb-initElf"/>
+	<item value="bootloop" key="system_top_hw_platform_0-sys_mb-initElf"/>
+	<item value="Local" key="ddr-target"/>
+	<item value="Auto Detect" key="ddr-device"/>
+	<item value="bootloop" key="sw-sys_mb-initElf"/>
+	<item value="Auto Detect" key="system_top_hw_platform_0-device"/>
+	<item value="false" key="system_top_hw_platform_0-partial_bit"/>
+	<item value="system_top.bit" key="ddr-bitFile"/>
+	<item value="Local" key="system_top_hw_platform_0-target"/>
+	<item value="Auto Detect" key="sw-device"/>
+	<item value="system_top.mmi" key="sw-bmmFile"/>
+	<item value="system_top.bit" key="sw-bitFile"/>
+	<item value="sw" key="programfpga.hwplatform"/>
+	<item value="false" key="ddr-partial_bit"/>
+	<item value="system_top.mmi" key="system_top_hw_platform_0-bmmFile"/>
+	<item value="Local" key="sw-target"/>
+	<item value="system_top.mmi" key="ddr-bmmFile"/>
+	<item value="false" key="sw-partial_bit"/>
+	<item value="system_top.bit" key="system_top_hw_platform_0-bitFile"/>
+</section>

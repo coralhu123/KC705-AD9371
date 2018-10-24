@@ -1,0 +1,86 @@
+Vivado Simulator 2017.4
+Time resolution is 1 fs
+Block Memory Generator module system_top.i_system_wrapper.system_i.axi_ethernet.inst.eth_buf.U0.RCV_INTFCE_I.RX_DP_MEM_IF_I.I_RXD_MEM.blk_gen_mem.family_supported.I_TRUE_DUAL_PORT_BLK_MEM_GEN.native_mem_module.blk_mem_gen_v8_4_1_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module system_top.i_system_wrapper.system_i.axi_ethernet.inst.eth_buf.U0.RCV_INTFCE_I.RX_DP_MEM_IF_I.I_RXS_MEM.blk_gen_mem.family_supported.I_TRUE_DUAL_PORT_BLK_MEM_GEN.native_mem_module.blk_mem_gen_v8_4_1_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module system_top.i_system_wrapper.system_i.axi_ethernet.inst.eth_buf.U0.TX_INTFCE_I.TX_MEM_INTERFACE.TXD_MEM.blk_gen_mem.family_supported.I_TRUE_DUAL_PORT_BLK_MEM_GEN.native_mem_module.blk_mem_gen_v8_4_1_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+ Block Memory Generator module loading initial data...
+ Block Memory Generator data initialization complete.
+Block Memory Generator module system_top.i_system_wrapper.system_i.axi_ethernet.inst.eth_buf.U0.TX_INTFCE_I.TX_MEM_INTERFACE.TXC_MEM.blk_gen_mem.family_supported.I_TRUE_DUAL_PORT_BLK_MEM_GEN.native_mem_module.blk_mem_gen_v8_4_1_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module system_top.i_system_wrapper.system_i.axi_mem_interconnect.s00_couplers.auto_us_df.inst.gen_upsizer.gen_full_upsizer.axi_upsizer_inst.USE_WRITE.gen_pktfifo_w_upsizer.pktfifo_write_data_inst.w_buffer.native_mem_module.blk_mem_gen_v8_4_1_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module system_top.i_system_wrapper.system_i.axi_mem_interconnect.s02_couplers.auto_us_df.inst.gen_upsizer.gen_full_upsizer.axi_upsizer_inst.USE_WRITE.gen_pktfifo_w_upsizer.pktfifo_write_data_inst.w_buffer.native_mem_module.blk_mem_gen_v8_4_1_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module system_top.i_system_wrapper.system_i.axi_mem_interconnect.s04_couplers.auto_us_df.inst.gen_upsizer.gen_full_upsizer.axi_upsizer_inst.USE_WRITE.gen_pktfifo_w_upsizer.pktfifo_write_data_inst.w_buffer.native_mem_module.blk_mem_gen_v8_4_1_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module system_top.i_system_wrapper.system_i.axi_mem_interconnect.s05_couplers.auto_us_df.inst.gen_upsizer.gen_full_upsizer.axi_upsizer_inst.USE_WRITE.gen_pktfifo_w_upsizer.pktfifo_write_data_inst.w_buffer.native_mem_module.blk_mem_gen_v8_4_1_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module system_top.i_system_wrapper.system_i.axi_mem_interconnect.s06_couplers.auto_us_df.inst.gen_upsizer.gen_full_upsizer.axi_upsizer_inst.USE_WRITE.gen_pktfifo_w_upsizer.pktfifo_write_data_inst.w_buffer.native_mem_module.blk_mem_gen_v8_4_1_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module system_top.i_system_wrapper.system_i.axi_mem_interconnect.s08_couplers.auto_us_cc_df.inst.gen_upsizer.gen_full_upsizer.axi_upsizer_inst.USE_WRITE.gen_pktfifo_w_upsizer.pktfifo_write_data_inst.w_buffer.native_mem_module.blk_mem_gen_v8_4_1_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+Block Memory Generator module system_top.i_system_wrapper.system_i.axi_mem_interconnect.s09_couplers.auto_us_cc_df.inst.gen_upsizer.gen_full_upsizer.axi_upsizer_inst.USE_WRITE.gen_pktfifo_w_upsizer.pktfifo_write_data_inst.w_buffer.native_mem_module.blk_mem_gen_v8_4_1_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+WARNING: Behavioral models for independent clock FIFO configurations do not model synchronization delays. The behavioral models are functionally correct, and will represent the behavior of the configured FIFO. See the FIFO Generator User Guide for more information.
+Block Memory Generator module system_top.i_system_wrapper.system_i.blk_mem_gen_0.inst.native_mem_mapped_module.blk_mem_gen_v8_4_1_inst is using a behavioral model for simulation which will not precisely model memory collision behavior.
+WARNING: file design.txt could not be opened
+ *** Warning: The analog data file design.txt for XADC instance system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.temp_mon_enabled.u_tempmon.xadc_supplied_temperature.XADC_inst was not found. Use the SIM_MONITOR_FILE parameter to specify the analog data file name or use the default name: design.txt.
+
+############# Write Clocks PLLE2_ADV Parameters #############
+
+nCK_PER_CLK      =       4
+CLK_PERIOD       =    5000
+CLKIN1_PERIOD    =   5.000
+DIVCLK_DIVIDE    =       1
+CLKFBOUT_MULT    =       8
+VCO_PERIOD       =   625.0
+CLKOUT0_DIVIDE_F =       2
+CLKOUT1_DIVIDE   =       2
+CLKOUT2_DIVIDE   =      32
+CLKOUT3_DIVIDE   =       8
+CLKOUT0_PERIOD   =    1250
+CLKOUT1_PERIOD   =    1250
+CLKOUT2_PERIOD   =   20000
+CLKOUT3_PERIOD   =    5000
+CLKOUT4_PERIOD   =    2500
+############################################################
+
+############# MMCME2_ADV Parameters #############
+
+MMCM_MULT_F           =           4
+MMCM_VCO_FREQ (MHz)   = 800.000
+MMCM_VCO_PERIOD       = 1250.000
+#################################################
+
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : BYTE_LANES_B0 = f BYTE_LANES_B1 = 7 DATA_CTL_B0 = f DATA_CTL_B1 = 0
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : HIGHEST_LANE =          12 HIGHEST_LANE_B0 =           4 HIGHEST_LANE_B1 =           4
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : HIGHEST_BANK =           3
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : FREQ_REF_PERIOD         = 1250.00 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : DDR_TCK                 = 1250 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PO_S2_TAPS_SIZE         = 9.77 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PO_CIRC_BUF_EARLY       = 0 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PO_CIRC_BUF_OFFSET      = 30.25 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PO_CIRC_BUF_META_ZONE   = 200.00 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PO_STG2_FINE_INTR_DLY   = 769.25 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PO_STG2_COARSE_INTR_DLY = 511.00 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PO_STG2_INTRINSIC_DELAY = 1280.25 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PO_CIRC_BUF_DELAY       = 60 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PO_INTRINSIC_DELAY      = 1280.25 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PO_DELAY                = 1866.19 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PO_OCLK_DELAY           = 15 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : L_PHY_0_PO_FINE_DELAY   = 60 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PI_STG1_INTRINSIC_DELAY = 0.00 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PI_STG2_INTRINSIC_DELAY = 744.00 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PI_INTRINSIC_DELAY      = 744.00 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PI_MAX_STG2_DELAY       = 615.23 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PI_OFFSET               = -78.00 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : a negative PI_OFFSET means that rclk path is longer than oclk path so rclk will be delayed to next oclk edge and the negedge of rclk may be used.
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : PI_STG2_DELAY           = 547.00 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy :PI_STG2_DELAY_CAND       = 547.00 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : DEFAULT_RCLK_DELAY      = 56 
+system_top.i_system_wrapper.system_i.mig_7series_0.u_system_mig_7series_0_0_mig.u_memc_ui_top_axi.mem_intfc0.ddr_phy_top0.u_ddr_mc_phy_wrapper.u_ddr_mc_phy : RCLK_SELECT_EDGE        = 0 
+Note: axi_iic configured for SDA inertial delay of 0 clocks.
+Time: 0 fs  Iteration: 0  Process: /system_top/i_system_wrapper/system_i/axi_iic_main/U0/X_IIC/FILTER_I/line__5035  File: /wrk/2017.sub/2017.4.1/nightly/2018_01_30_2117270/packages/customer/vivado/data/ip/xilinx/axi_iic_v2_0/hdl/axi_iic_v2_0_vh_rfs.vhd
+Note: axi_iic configured for SCL inertial delay of 0 clocks.
+Time: 0 fs  Iteration: 0  Process: /system_top/i_system_wrapper/system_i/axi_iic_main/U0/X_IIC/FILTER_I/line__5009  File: /wrk/2017.sub/2017.4.1/nightly/2018_01_30_2117270/packages/customer/vivado/data/ip/xilinx/axi_iic_v2_0/hdl/axi_iic_v2_0_vh_rfs.vhd
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. system_top.i_system_wrapper.system_i.axi_ethernet_dma.U0.I_PRMRY_DATAMOVER.gen_mm2s_full.I_MM2S_FULL_WRAPPER.gen_include_mm2s_sf.I_RD_SF.I_DATA_FIFO.blk_mem.I_SYNC_FIFOGEN_FIFO.xpm_fifo_instance.xpm_fifo_sync_inst.xpm_fifo_base_inst.gen_sdpram.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /system_top/i_system_wrapper/system_i/axi_ethernet_dma/U0/I_PRMRY_DATAMOVER/gen_mm2s_full/I_MM2S_FULL_WRAPPER/gen_include_mm2s_sf/I_RD_SF/I_DATA_FIFO/blk_mem/I_SYNC_FIFOGEN_FIFO/xpm_fifo_instance/xpm_fifo_sync_inst/xpm_fifo_base_inst/gen_sdpram.xpm_memory_base_inst/Initial270_9567  File: /wrk/2017.sub/2017.4.1/nightly/2018_01_30_2117270/prep/rdi/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. system_top.i_system_wrapper.system_i.axi_ethernet_dma.U0.I_PRMRY_DATAMOVER.gen_s2mm_full.I_S2MM_FULL_WRAPPER.gen_include_gp_sf.I_S2MM_GP_SF.I_DATA_FIFO.blk_mem.I_SYNC_FIFOGEN_FIFO.xpm_fifo_instance.xpm_fifo_sync_inst.xpm_fifo_base_inst.gen_sdpram.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /system_top/i_system_wrapper/system_i/axi_ethernet_dma/U0/I_PRMRY_DATAMOVER/gen_s2mm_full/I_S2MM_FULL_WRAPPER/gen_include_gp_sf/I_S2MM_GP_SF/I_DATA_FIFO/blk_mem/I_SYNC_FIFOGEN_FIFO/xpm_fifo_instance/xpm_fifo_sync_inst/xpm_fifo_base_inst/gen_sdpram.xpm_memory_base_inst/Initial270_9626  File: /wrk/2017.sub/2017.4.1/nightly/2018_01_30_2117270/prep/rdi/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-1] MEMORY_PRIMITIVE (0) instructs Vivado Synthesis to choose the memory primitive type. Depending on their values, other XPM_MEMORY parameters may preclude the choice of certain memory primitive types. Review XPM_MEMORY documentation and parameter values to understand any limitations, or set MEMORY_PRIMITIVE to a different value. system_top.i_system_wrapper.system_i.axi_ethernet_dma.U0.gen_sg_engine.I_SG_ENGINE.I_SG_FETCH_QUEUE.gen_queue.FTCH_QUEUE_I.gen_mm2s.control_stream.I_MM2S_CNTRL_STREAM.gen_sync_fifo.I_CNTRL_FIFO.xpm_fifo_instance.xpm_fifo_sync_inst.xpm_fifo_base_inst.gen_sdpram.xpm_memory_base_inst.config_drc
+Time: 1 ps  Iteration: 0  Process: /system_top/i_system_wrapper/system_i/axi_ethernet_dma/U0/gen_sg_engine/I_SG_ENGINE/I_SG_FETCH_QUEUE/gen_queue/FTCH_QUEUE_I/gen_mm2s/control_stream/I_MM2S_CNTRL_STREAM/gen_sync_fifo/I_CNTRL_FIFO/xpm_fifo_instance/xpm_fifo_sync_inst/xpm_fifo_base_inst/gen_sdpram.xpm_memory_base_inst/Initial270_9508  File: /wrk/2017.sub/2017.4.1/nightly/2018_01_30_2117270/prep/rdi/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Info: [XPM_MEMORY 20-2] MEMORY_INIT_FILE (none), MEMORY_INIT_PARAM together specify no memory initialization. Initial memory contents will be all 0's. system_top.i_system_wrapper.system_i.axi_ethernet_dma.U0.gen_sg_engine.I_SG_ENGINE.I_SG_FETCH_QUEUE.gen_queue.FTCH_QUEUE_I.gen_mm2s.control_stream.I_MM2S_CNTRL_STREAM.gen_sync_fifo.I_CNTRL_FIFO.xpm_fifo_instance.xpm_fifo_sync_inst.xpm_fifo_base_inst.gen_sdpram.xpm_memory_base_inst.config_drc  0
+Time: 1 ps  Iteration: 0  Process: /system_top/i_system_wrapper/system_i/axi_ethernet_dma/U0/gen_sg_engine/I_SG_ENGINE/I_SG_FETCH_QUEUE/gen_queue/FTCH_QUEUE_I/gen_mm2s/control_stream/I_MM2S_CNTRL_STREAM/gen_sync_fifo/I_CNTRL_FIFO/xpm_fifo_instance/xpm_fifo_sync_inst/xpm_fifo_base_inst/gen_sdpram.xpm_memory_base_inst/Initial270_9508  File: /wrk/2017.sub/2017.4.1/nightly/2018_01_30_2117270/prep/rdi/vivado/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv

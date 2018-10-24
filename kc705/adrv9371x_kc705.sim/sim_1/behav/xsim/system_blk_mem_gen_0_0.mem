@@ -1,0 +1,16 @@
+// Mem file initialization records.
+//
+// SW Build 2117270 on Tue Jan 30 15:32:00 MST 2018
+// Vivado v2017.4.1 (64-bit)
+// Copyright 1986-2017 Xilinx, Inc. All Rights Reserved.
+// Created on Thursday September 20, 2018 - 09:17:54 pm, from:
+//
+//     Map file     - E:\AD9371\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.srcs\sources_1\bd\system\system.bmm
+//     Data file(s) - e:/AD9371/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/adrv9371x_kcu105.srcs/sources_1/bd/system/ip/system_sys_mb_0/data/mb_bootloop_le.elf
+//
+// Address space 'i_system_wrapper_system_i_sys_mb.i_system_wrapper_system_i_blk_mem_gen_0_ADDR_SPACE', bit lane [31:0].
+//
+// Bus width = 32 bits, number of bus blocks = 1.
+
+@00000000
+    B8000000

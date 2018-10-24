@@ -1,0 +1,6 @@
+21:28:57 **** Incremental Build of configuration Debug for project ddr3 ****
+make all 
+make: Nothing to be done for `all'.
+
+21:28:57 Build Finished (took 713ms)
+

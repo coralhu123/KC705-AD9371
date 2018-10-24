@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Sun Oct 21 20:41:38 2018
+# Process ID: 13460
+# Current directory: E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent13508 E:\vivado2017.4\KC705+AD9371\AD9371_TEST\hdl-hdl_2018_r1\projects\adrv9371x\kcu105\adrv9371x_kcu105.xpr
+# Log file: E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105/vivado.log
+# Journal file: E:/vivado2017.4/KC705+AD9371/AD9371_TEST/hdl-hdl_2018_r1/projects/adrv9371x/kcu105\vivado.jou
+#-----------------------------------------------------------
+start_gui
