@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.2 (64-bit)
+# SW Build 1909853 on Thu Jun 15 18:39:09 MDT 2017
+# IP Build 1909766 on Thu Jun 15 19:58:00 MDT 2017
+# Start of session at: Wed Oct 17 08:36:52 2018
+# Process ID: 20284
+# Current directory: F:/github/hdl-hdl_2018_r1/library/util_upack
+# Command line: vivado.exe -mode batch -source util_upack_ip.tcl
+# Log file: F:/github/hdl-hdl_2018_r1/library/util_upack/vivado.log
+# Journal file: F:/github/hdl-hdl_2018_r1/library/util_upack\vivado.jou
+#-----------------------------------------------------------
+source util_upack_ip.tcl
